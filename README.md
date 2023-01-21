@@ -1,8 +1,8 @@
 # ShopMugs
-<br/>
-<br/>
 First you need install Node.js... 
+<br/>
 https://nodejs.org/en/download
+<br/>
 <br/>
 Open Api:
 <br/>
