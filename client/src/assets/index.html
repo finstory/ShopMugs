@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | Unity CSharp JavaScript</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <!--<link rel="stylesheet" href="TemplateData/style.css">-->
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/UnityJS.json", {onProgress: UnityProgress});
+    </script>
+	<style>
+		input, button{
+			padding: 10px;
+		}
+	</style>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="unityContainer" style="width: 960px; height: 600px"></div>
+	  <div>
+		<input placeholder="Enter text..." id="htmlinput"><button onclick="sendBackMessage()">Send to Unity</button>
+	  </div>
+    </div>
+	<script>
+		function sendBackMessage(){
+			var message = document.getElementById("htmlinput").value;
+			console.log("Sending message to Unity: " + message);
+			unityInstance.SendMessage("Bridge", "SendToUnity", message);
+		}
+	</script>
+	<script>
+		var recaptureInputAndFocus = function() {
+			var canvas = document.getElementById("#canvas");
+			if(canvas) {
+				canvas.setAttribute("tabindex", "1");
+				canvas.focus(); 
+			} else
+				setTimeout(recaptureInputAndFocus, 100);
+		}
+		recaptureInputAndFocus();
+	</script>
+  </body>
+</html>

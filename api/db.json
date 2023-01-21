@@ -1,0 +1,3731 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "penny lane organics",
+      "name": "Lip Gloss",
+      "price": 4.6,
+      "discount": 0,
+      "finalPrice": 4.6,
+      "stock": 9,
+      "description": "For fuller healthier lips! Long lasting colour! This colour is a good choice for any skin tone. It can be made lighter by wiping some off after application.Please note that our Vitamin E is extracted from non-GMO soy bean oil and therefore is gluten-free.",
+      "rating": 4,
+      "subcategory": "lip_gloss",
+      "category": "lipstick",
+      "tags": [
+        "purpicks",
+        "CertClean",
+        "Vegan",
+        "Chemical Free",
+        "Gluten Free"
+      ],
+      "createdAt": "2018-06-30T19:19:31.534Z",
+      "updatedAt": "2018-09-02T22:52:06.618Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1030.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/030/original/open-uri20180630-4-ucbwbt?1530390380",
+      "colors": [
+        {
+          "hex_value": "#2F1513",
+          "colour_name": "Black Cherry"
+        },
+        {
+          "hex_value": "#4F1314",
+          "colour_name": "Fiery Red"
+        },
+        {
+          "hex_value": "#6F2633",
+          "colour_name": "Pearl Pink"
+        },
+        {
+          "hex_value": "#B05665",
+          "colour_name": "Pink Shimmer"
+        },
+        {
+          "hex_value": "#783F30",
+          "colour_name": "Sunset Bronze"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "nudus",
+      "name": "Amalia",
+      "price": 8.6,
+      "discount": 10,
+      "finalPrice": 7.74,
+      "stock": 15,
+      "description": "named after my beautiful mum, delicately pink that displays sophistication. a perfect sheer wash of gorgeous colour that brings a new texture to the lip euphoria range. <strong>lipstick benefits</strong> a unique handcrafted lipstick blended with certified organic ingredients. beautifully pigmented with ancient ayurvedic bioactive colour extracts, leaving your lips soft and deliciously hydrated.<strong>key benefits</strong><ul><li>vitamins, A, B, C, D, E and K</li><li>antioxidants, including pomegranate, raspberry and kiwi cold pressed oils</li><li>27 active natural ingredients, helping against environmental stress</li><li>colours made from flowers, fruits, herbs and minerals</li><li>free from parabens, petro-chemicals, lanolin, hydrogenated oils,fd&amp;c and lake dyes, nano-particles, gmo, pesticides and fungicides</li><li>not tested on animals</li><li>gluten free</li></ul>",
+      "rating": 5,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [
+        "purpicks"
+      ],
+      "createdAt": "2018-06-30T19:19:31.441Z",
+      "updatedAt": "2018-09-02T22:52:06.839Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1029.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/029/original/open-uri20180630-4-1rfkucb?1530390379",
+      "colors": [
+        {
+          "hex_value": "#7C524F",
+          "colour_name": "27 Kisses"
+        },
+        {
+          "hex_value": "#884955",
+          "colour_name": "Amalia"
+        },
+        {
+          "hex_value": "#9F3D2A",
+          "colour_name": "Bitter Sweet"
+        },
+        {
+          "hex_value": "#542A26",
+          "colour_name": "Dirty Diana"
+        },
+        {
+          "hex_value": "#793D48",
+          "colour_name": "Dreamtime"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "lotus cosmetics usa",
+      "name": "Creme to Powder Blush",
+      "price": 3.1,
+      "discount": 0,
+      "finalPrice": 3.1,
+      "stock": 17,
+      "description": "A cream to powder blush made with all natural ingredients that applies like a soft cream but finishes like a silky powder. Antioxidant-rich botanicals help moisturize the skin, while natural pigments provide long-lasting buildable color for a healthy, radiant glow. Made with natural and organic ingredients.",
+      "rating": 4,
+      "subcategory": "cream",
+      "category": "blush",
+      "tags": [
+        "purpicks",
+        "USDA Organic",
+        "Organic"
+      ],
+      "createdAt": "2018-06-30T19:19:30.678Z",
+      "updatedAt": "2018-09-02T22:52:06.437Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1017.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/017/original/open-uri20180630-4-1r5paz3?1530390370",
+      "colors": [
+        {
+          "hex_value": "#C7766F",
+          "colour_name": "Plum"
+        },
+        {
+          "hex_value": "#DF925C",
+          "colour_name": "Apricot"
+        },
+        {
+          "hex_value": "#E89B7C",
+          "colour_name": "Rose"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "lotus cosmetics usa",
+      "name": "Eye Shadow Palette Mesmerize",
+      "price": 4.9,
+      "discount": 0,
+      "finalPrice": 4.9,
+      "stock": 16,
+      "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
+      "rating": 4,
+      "subcategory": "palette",
+      "category": "eyeshadow",
+      "tags": [
+        "purpicks",
+        "USDA Organic",
+        "Organic"
+      ],
+      "createdAt": "2018-06-30T19:19:30.618Z",
+      "updatedAt": "2018-09-02T22:52:06.804Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1016.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/016/original/open-uri20180630-4-1mmjptw?1530390369",
+      "colors": [
+        {
+          "hex_value": "#FDF5EB",
+          "colour_name": "Color 1"
+        },
+        {
+          "hex_value": "#F5CFBC",
+          "colour_name": "Color 2"
+        },
+        {
+          "hex_value": "#B57F57",
+          "colour_name": "Color 3"
+        },
+        {
+          "hex_value": "#A39796",
+          "colour_name": "Color 4"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "lotus cosmetics usa",
+      "name": "Eye Shadow Palette Deluxe",
+      "price": 17,
+      "discount": 40,
+      "finalPrice": 10.2,
+      "stock": 14,
+      "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
+      "rating": 4,
+      "subcategory": "palette",
+      "category": "eyeshadow",
+      "tags": [
+        "purpicks",
+        "USDA Organic",
+        "Organic"
+      ],
+      "createdAt": "2018-06-30T19:19:30.555Z",
+      "updatedAt": "2018-09-02T22:52:06.788Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1015.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/015/original/open-uri20180630-4-egfs2g?1530390369",
+      "colors": [
+        {
+          "hex_value": "#F4DACA",
+          "colour_name": "Color 1"
+        },
+        {
+          "hex_value": "#C89281",
+          "colour_name": "Color 2"
+        },
+        {
+          "hex_value": "#4F7386",
+          "colour_name": "Color 3"
+        },
+        {
+          "hex_value": "#9D9484",
+          "colour_name": "Color 4"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "lotus cosmetics usa",
+      "name": "Eye Shadow Palette Smokey",
+      "price": 4.6,
+      "discount": 0,
+      "finalPrice": 4.6,
+      "stock": 7,
+      "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
+      "rating": 4,
+      "subcategory": "palette",
+      "category": "eyeshadow",
+      "tags": [
+        "purpicks",
+        "USDA Organic",
+        "Organic"
+      ],
+      "createdAt": "2018-06-30T19:19:30.490Z",
+      "updatedAt": "2018-09-02T22:52:06.773Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1014.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/014/original/open-uri20180630-4-1y604g6?1530390368",
+      "colors": [
+        {
+          "hex_value": "#7F946E",
+          "colour_name": "Color 1"
+        },
+        {
+          "hex_value": "#C8B38A",
+          "colour_name": "Color 2"
+        },
+        {
+          "hex_value": "#668D9F",
+          "colour_name": "Color 3"
+        },
+        {
+          "hex_value": "#36312C",
+          "colour_name": "Color 4"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "lotus cosmetics usa",
+      "name": "Eye Shadow Palette Seduction",
+      "price": 11.5,
+      "discount": 35,
+      "finalPrice": 7.48,
+      "stock": 15,
+      "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
+      "rating": 4,
+      "subcategory": "palette",
+      "category": "eyeshadow",
+      "tags": [
+        "purpicks",
+        "USDA Organic",
+        "Organic"
+      ],
+      "createdAt": "2018-06-30T19:19:30.422Z",
+      "updatedAt": "2018-09-02T22:52:06.762Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1013.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/013/original/open-uri20180630-4-1x4t7kg?1530390367",
+      "colors": [
+        {
+          "hex_value": "#EBBC9D",
+          "colour_name": "Color 1"
+        },
+        {
+          "hex_value": "#EFB1B0",
+          "colour_name": "Color 2"
+        },
+        {
+          "hex_value": "#5E3A31",
+          "colour_name": "Color 3"
+        },
+        {
+          "hex_value": "#72504A",
+          "colour_name": "Color 4"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "lotus cosmetics usa",
+      "name": "Eye Shadow Palette Cocoa",
+      "price": 2.4,
+      "discount": 0,
+      "finalPrice": 2.4,
+      "stock": 14,
+      "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
+      "rating": 4,
+      "subcategory": "palette",
+      "category": "eyeshadow",
+      "tags": [
+        "purpicks",
+        "USDA Organic",
+        "Organic"
+      ],
+      "createdAt": "2018-06-30T19:19:30.347Z",
+      "updatedAt": "2018-09-02T22:52:06.753Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1012.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/012/original/open-uri20180630-4-1rlpw5a?1530390367",
+      "colors": [
+        {
+          "hex_value": "#E7CBB7",
+          "colour_name": "Color 1"
+        },
+        {
+          "hex_value": "#BE9794",
+          "colour_name": "Color 2"
+        },
+        {
+          "hex_value": "#B5816B",
+          "colour_name": "Color 3"
+        },
+        {
+          "hex_value": "#9E6D64",
+          "colour_name": "Color 4"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "green people",
+      "name": "Volumising Mascara",
+      "price": 2.5,
+      "discount": 0,
+      "finalPrice": 2.5,
+      "stock": 19,
+      "description": "Natural mineral pigments for intense natural black colour. Nourish roots and condition lashes with 98percent natural ingredients. Unique precision brush offers excellent lash definition Natural cellulose micro spheres give outstanding volume Vitamin E, Sunflower oil & Organic Beeswax",
+      "rating": 4,
+      "subcategory": "",
+      "category": "mascara",
+      "tags": [
+        "purpicks",
+        "EcoCert"
+      ],
+      "createdAt": "2018-06-30T19:19:30.303Z",
+      "updatedAt": "2018-09-02T22:52:06.581Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1011.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/011/original/open-uri20180630-4-ojcehy?1530390366",
+      "colors": [
+        {
+          "hex_value": "#000000",
+          "colour_name": "Black"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "coastal classic creation",
+      "name": "Conch Lipstick",
+      "price": 5,
+      "discount": 0,
+      "finalPrice": 5,
+      "stock": 14,
+      "description": "Coastal Classic Creations Conch Lipstick is a flattering, stylish, rich winterberry color. This lipstick is paraben-free and vegan and contains sunflower oil which is rich in Vitamin E and which may protect against damage from the sun. To boost the product's effectiveness, we add sesame seed oil which contains Vitamins E, D, and B complex to provide moisture and neutralize free radicals. Companions well with Boysenberry Lip Crayon.",
+      "rating": 4,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [
+        "purpicks",
+        "EWG Verified",
+        "Hypoallergenic",
+        "No Talc"
+      ],
+      "createdAt": "2018-06-30T19:19:30.184Z",
+      "updatedAt": "2018-09-02T22:52:06.571Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1010.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/010/original/open-uri20180630-4-dywvay?1530390364",
+      "colors": [
+        {
+          "hex_value": "#822A42",
+          "colour_name": "Raspberry"
+        },
+        {
+          "hex_value": "#8D394F",
+          "colour_name": "Conch"
+        },
+        {
+          "hex_value": "#9F4353",
+          "colour_name": "Crushed Rose"
+        },
+        {
+          "hex_value": "#A15F55",
+          "colour_name": "Tender Toffee"
+        },
+        {
+          "hex_value": "#F09178",
+          "colour_name": "Deja Vu"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "c'est moi",
+      "name": "Reflect Lip Gloss",
+      "price": 2.6,
+      "discount": 0,
+      "finalPrice": 2.6,
+      "stock": 20,
+      "description": "These essential lip gloss shades are enriched with a blend of natural and organic oils to deliver the perfect amount of sheer color and shine to lips. Enriched with a blend of natural and organic oils, this essential gloss delivers a wash of sheer color and promises shine—not stickiness. Made for Young Delicate Skin Types NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol Dermatologist Tested Clinically Tested on Sensitive Skin, Hypoallergenic, Made with Natural & Organic Ingredients",
+      "rating": 4,
+      "subcategory": "lip_gloss",
+      "category": "lipstick",
+      "tags": [
+        "purpicks",
+        "EWG Verified",
+        "Hypoallergenic",
+        "No Talc"
+      ],
+      "createdAt": "2018-06-30T19:19:30.116Z",
+      "updatedAt": "2018-09-02T22:52:06.562Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1009.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/009/original/open-uri20180630-4-xznfso?1530390363",
+      "colors": [
+        {
+          "hex_value": "#DF585A",
+          "colour_name": "Rise"
+        },
+        {
+          "hex_value": "#E4CFCE",
+          "colour_name": "Opulence"
+        },
+        {
+          "hex_value": "#D6474B",
+          "colour_name": "Bliss"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "c'est moi",
+      "name": "Luminary Lip Crayon",
+      "price": 7.1,
+      "discount": 0,
+      "finalPrice": 7.1,
+      "stock": 15,
+      "description": "These nourishing and creamy lip crayons come in 6 perfectly pigmented shades that go from subtle to statement. This easy-to-use lip crayon delivers velvety application and perfectly pigmented color, plus a nourishing formula with a creamy, consistent texture designed to make your lips appear soft and smooth. Apply sparingly for a subtle look, or generously to make a statement—either way, your lips will feel as beautiful as they look! Made for Young Delicate Skin Types NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol Dermatologist Tested Clinically Tested On Sensitive Skin Hypoallergenic",
+      "rating": 4,
+      "subcategory": "pencil",
+      "category": "lipliner",
+      "tags": [
+        "purpicks",
+        "EWG Verified",
+        "Hypoallergenic",
+        "No Talc"
+      ],
+      "createdAt": "2018-06-30T19:19:29.975Z",
+      "updatedAt": "2018-09-02T22:52:06.545Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1007.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/007/original/open-uri20180630-4-1m2hvd7?1530390361",
+      "colors": [
+        {
+          "hex_value": "#B89093",
+          "colour_name": "Fresh"
+        },
+        {
+          "hex_value": "#CB7579",
+          "colour_name": "True"
+        },
+        {
+          "hex_value": "#EB5D92",
+          "colour_name": "Fierce"
+        },
+        {
+          "hex_value": "#E74857",
+          "colour_name": "Vivid"
+        },
+        {
+          "hex_value": "#CC5257",
+          "colour_name": "Brave"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "brand": "c'est moi",
+      "name": "Fearless Eyeliner",
+      "price": 4.1,
+      "discount": 0,
+      "finalPrice": 4.1,
+      "stock": 11,
+      "description": "Make eyes pop with this velvety smooth eyeliner that glides on effortlessly and precisely. Make your eyes pop with this sleek, easy-to-use eyeliner. Formulated with both jojoba seed oil and shea butter, its velvety smooth formula glides on effortlessly and precisely. To sharpen, place inside sharpener and turn the pencil gently to create a working tip. Made for Young Delicate Skin Types NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol  Dermatologist Tested Clinically Tested on Sensitive Skin Hypoallergenic Made with Natural Ingredients",
+      "rating": 4,
+      "subcategory": "pencil",
+      "category": "eyeliner",
+      "tags": [
+        "purpicks",
+        "EWG Verified",
+        "Hypoallergenic",
+        "No Talc"
+      ],
+      "createdAt": "2018-06-30T19:19:29.910Z",
+      "updatedAt": "2018-09-02T22:52:06.537Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1006.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/006/original/open-uri20180630-4-u4c1jh?1530390360",
+      "colors": [
+        {
+          "hex_value": "#B8A89A",
+          "colour_name": "Fearless"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "brand": "nyx",
+      "name": "Doll Eye Mascara",
+      "price": 9.5,
+      "discount": 0,
+      "finalPrice": 9.5,
+      "stock": 20,
+      "description": "Hello, dollface! For irresistibly fluttery eyelashes, try this mascara on for size. Doll Eye Mascara uses a unique blend of natural oil and nylon fibers to extend lashes to almost faux proportions. Choose from our Doll Eye Mascara in Long Lash, Volume or Waterproof.",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "mascara",
+      "tags": [],
+      "createdAt": "2017-12-24T02:33:04.665Z",
+      "updatedAt": "2017-12-24T02:33:05.096Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/993.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/993/original/data?1514082784",
+      "colors": [
+        {
+          "hex_value": "#141414",
+          "colour_name": "Waterproof - Black"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "brand": "nyx",
+      "name": "Boudoir Mascara Collection",
+      "price": 6,
+      "discount": 0,
+      "finalPrice": 6,
+      "stock": 19,
+      "description": "Every powder room should have our luxurious Boudoir Mascara Collection available in 7 elite formulas. Whether you want to darken, amp up the volume, or lengthen your lashes - we have a mascara that meets all your needs.",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "mascara",
+      "tags": [],
+      "createdAt": "2017-12-24T02:33:00.623Z",
+      "updatedAt": "2017-12-24T02:33:01.097Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/990.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/990/original/open-uri20171224-4-1xdrjhl?1514082780",
+      "colors": [
+        {
+          "hex_value": "#131315",
+          "colour_name": "Le Frou Frou"
+        },
+        {
+          "hex_value": "#232323",
+          "colour_name": "Pin-Up Tease"
+        },
+        {
+          "hex_value": "#0D0D0D",
+          "colour_name": "Provocateur"
+        },
+        {
+          "hex_value": "#141414",
+          "colour_name": "Faux Lashes"
+        },
+        {
+          "hex_value": "#151515",
+          "colour_name": "Le Chick Flick"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "brand": "nyx",
+      "name": "Eyebrow Marker",
+      "price": 9.75,
+      "discount": 0,
+      "finalPrice": 9.75,
+      "stock": 14,
+      "description": "Sculpt fill in and enhance your natural eyebrows with our felt-tip Eyebrow Marker. The color resists smearing and smudging and wears all day long.",
+      "rating": 4,
+      "subcategory": "pencil",
+      "category": "eyebrow",
+      "tags": [],
+      "createdAt": "2017-12-24T02:32:56.532Z",
+      "updatedAt": "2017-12-24T02:32:56.924Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/987.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/987/original/data?1514082776",
+      "colors": [
+        {
+          "hex_value": "#8B6534",
+          "colour_name": "Medium"
+        },
+        {
+          "hex_value": "#4D2712",
+          "colour_name": "Deep"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "brand": "nyx",
+      "name": "3-Dimensional Brow Marker",
+      "price": 10,
+      "discount": 15,
+      "finalPrice": 8.5,
+      "stock": 18,
+      "description": "",
+      "rating": 5,
+      "subcategory": "pencil",
+      "category": "eyebrow",
+      "tags": [],
+      "createdAt": "2017-12-24T02:32:54.098Z",
+      "updatedAt": "2017-12-24T02:32:54.491Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/984.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/984/original/open-uri20171224-4-1uh3nw7?1514082773",
+      "colors": [
+        {
+          "hex_value": "#B78F69",
+          "colour_name": "Blonde"
+        },
+        {
+          "hex_value": "#99663A",
+          "colour_name": "Auburn"
+        },
+        {
+          "hex_value": "#56382D",
+          "colour_name": "Chocolate Brown"
+        },
+        {
+          "hex_value": "#403028",
+          "colour_name": "Charcoal"
+        },
+        {
+          "hex_value": "#765948",
+          "colour_name": "Brunette"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "brand": "nyx",
+      "name": "3-in-1 Brow Pencil",
+      "price": 13,
+      "discount": 0,
+      "finalPrice": 13,
+      "stock": 20,
+      "description": "One unbeatable brow beautifier, three go-to goodies. Our versatile 3-in-1 Brow includes everything you need to build exquisite arches. A retractable pencil, Powder, and brow mascara, available in 10 pigmented shades. Achieve eyebrows that are as natural-looking or bold as you desire by applying these essentials alone or together. To combine ’em all, simply outline with the pencil and fill in with the Powder. Complete the look by setting your brows with a swipe of mascara.",
+      "rating": 3,
+      "subcategory": "liquid",
+      "category": "eyebrow",
+      "tags": [],
+      "createdAt": "2017-12-24T02:32:50.424Z",
+      "updatedAt": "2017-12-24T02:32:50.840Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/981.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/981/original/open-uri20171224-4-1i8mko9?1514082770",
+      "colors": [
+        {
+          "hex_value": "#f2efcd",
+          "colour_name": "Blonde"
+        },
+        {
+          "hex_value": "#7d6b62",
+          "colour_name": "Taupe"
+        },
+        {
+          "hex_value": "#a52a2a",
+          "colour_name": "Auburn"
+        },
+        {
+          "hex_value": "#684e44",
+          "colour_name": "Brunette"
+        },
+        {
+          "hex_value": "#363031",
+          "colour_name": "Espresso"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "brand": "nyx",
+      "name": "Eyebrow Powder Pencil",
+      "price": 6.5,
+      "discount": 0,
+      "finalPrice": 6.5,
+      "stock": 17,
+      "description": "Close your eyes and picture the perfect brows. Are they defined, yet delicate? Create the brows of this daydream with the brand new Eyebrow Powder Pencil. Our unique pencil’s superfine texture provides a powdery-soft, matte finish. Put the finishing touches on your arches by using the included spoolie brush to smooth out the rich color.",
+      "rating": 4,
+      "subcategory": "pencil",
+      "category": "eyebrow",
+      "tags": [],
+      "createdAt": "2017-12-24T02:32:46.856Z",
+      "updatedAt": "2017-12-24T02:32:47.732Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/979.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/979/original/open-uri20171224-4-1wo69r1?1514082766",
+      "colors": [
+        {
+          "hex_value": "#FFF0E2",
+          "colour_name": "Blonde"
+        },
+        {
+          "hex_value": "#F7EFE4",
+          "colour_name": "Taupe"
+        },
+        {
+          "hex_value": "#F5EBE2",
+          "colour_name": "Soft Brown"
+        },
+        {
+          "hex_value": "#FBEFE3",
+          "colour_name": "Caramel"
+        },
+        {
+          "hex_value": "#FBEBDB",
+          "colour_name": "Auburn"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "brand": "nyx",
+      "name": "Precision Brow Pencil",
+      "price": 10,
+      "discount": 0,
+      "finalPrice": 10,
+      "stock": 17,
+      "description": "Life changing eyebrow pencil",
+      "rating": 5,
+      "subcategory": "pencil",
+      "category": "eyebrow",
+      "tags": [],
+      "createdAt": "2017-12-24T02:32:44.747Z",
+      "updatedAt": "2017-12-24T02:32:45.190Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/978.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/978/original/open-uri20171224-4-odtm98?1514082764",
+      "colors": [
+        {
+          "hex_value": "#C6B7B0",
+          "colour_name": "Blonde"
+        },
+        {
+          "hex_value": "#C2B4A9",
+          "colour_name": "Taupe"
+        },
+        {
+          "hex_value": "#BDB5AA",
+          "colour_name": "Soft Brown"
+        },
+        {
+          "hex_value": "#BBAEA5",
+          "colour_name": "Ash Brown"
+        },
+        {
+          "hex_value": "#A09488",
+          "colour_name": "Espresso"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "brand": "nyx",
+      "name": "Holographic Halo Cream Eyeliner",
+      "price": 11,
+      "discount": 0,
+      "finalPrice": 11,
+      "stock": 14,
+      "description": "Line your lids in holographic color with our Holographic Halo Cream Eyeliners! Inspired by all-things-unicorn, this unique formula uses ultra-fine, pigmented pearls to create a sleek, shimmering line, or it can be blended out to an intense, holographic eyeshadow. Available in five of the prettiest pastels you’ve ever seen.",
+      "rating": 5,
+      "subcategory": "cream",
+      "category": "eyeliner",
+      "tags": [],
+      "createdAt": "2017-12-24T02:32:29.656Z",
+      "updatedAt": "2017-12-24T02:32:30.086Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/969.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/969/original/open-uri20171224-4-59b48d?1514082749",
+      "colors": [
+        {
+          "hex_value": "#E29F8C",
+          "colour_name": "Palisade Paradise"
+        },
+        {
+          "hex_value": "#6CB5AA",
+          "colour_name": "Killing It"
+        },
+        {
+          "hex_value": "#D4AAC0",
+          "colour_name": "Cotton Candy"
+        },
+        {
+          "hex_value": "#DDD5D3",
+          "colour_name": "Frost"
+        },
+        {
+          "hex_value": "#A3ABB6",
+          "colour_name": "Crystal Vault"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "brand": "nyx",
+      "name": "Cosmic Gel Liner",
+      "price": 10,
+      "discount": 0,
+      "finalPrice": 10,
+      "stock": 13,
+      "description": "Swap your standard wing for eyes that twinkle like stars! A beam of Cosmic Gel Eye Liner makes an out of this world statement through an intense burst of sparkle and bold color. Available in three shades packed with interstellar shimmer, this formula glides on silky-smooth and is super easy to blend. Like our fan fave Gel Liner and Smudger, these rich colors stay put for strong galactic glam.",
+      "rating": 4,
+      "subcategory": "gel",
+      "category": "eyeliner",
+      "tags": [],
+      "createdAt": "2017-12-24T02:32:26.896Z",
+      "updatedAt": "2017-12-24T02:32:27.267Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/966.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/966/original/open-uri20171224-4-kpqxp4?1514082746",
+      "colors": [
+        {
+          "hex_value": "#D64262",
+          "colour_name": "Interstellar"
+        },
+        {
+          "hex_value": "#06ADE4",
+          "colour_name": "Supernatural"
+        },
+        {
+          "hex_value": "#262B51",
+          "colour_name": "Infinite Star"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "brand": "nyx",
+      "name": "Metallic Eyeliner",
+      "price": 8,
+      "discount": 0,
+      "finalPrice": 8,
+      "stock": 16,
+      "description": "Spend some quality glam time with our Metallic Eyeliners. From copper to rose gold and silver, this creamy-soft pencil is available in six dazzling shades. Each pigment rich eyeliner slides on effortlessly and loads your lids with a metallic-matte finish. Down to the last swipe? Sharpen your go-to hue to uncover more intense color.",
+      "rating": 5,
+      "subcategory": "pencil",
+      "category": "eyeliner",
+      "tags": [],
+      "createdAt": "2017-12-24T02:32:24.051Z",
+      "updatedAt": "2017-12-24T02:32:24.479Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/964.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/964/original/open-uri20171224-4-11fb0s4?1514082743",
+      "colors": [
+        {
+          "hex_value": "#B15A47",
+          "colour_name": "Copper"
+        },
+        {
+          "hex_value": "#99949A",
+          "colour_name": "Silver"
+        },
+        {
+          "hex_value": "#B69A8F",
+          "colour_name": "Rose Gold"
+        },
+        {
+          "hex_value": "#B88B47",
+          "colour_name": "Gold"
+        },
+        {
+          "hex_value": "#2F2F2F",
+          "colour_name": "Gunmetal"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "brand": "nyx",
+      "name": "Holographic Halo Finishing Powder",
+      "price": 12,
+      "discount": 15,
+      "finalPrice": 10.2,
+      "stock": 19,
+      "description": "Glow your own way using Holographic Halo Finishing Powder! This ultra-fine loose powder comes in two pearly shades and delivers an ethereal look that’s crazy gorgeous. Lightly dust it all over your complexion to set and softly illuminate, or along the highest points of the face—like the bridge of the nose, cheekbones or Cupid’s bow—to add a touch of radiance here and there.",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2017-12-24T02:31:30.972Z",
+      "updatedAt": "2017-12-24T02:31:31.434Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/938.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/938/original/open-uri20171224-4-52epl7?1514082690",
+      "colors": [
+        {
+          "hex_value": "#DDE9F5",
+          "colour_name": "Mermazing"
+        },
+        {
+          "hex_value": "#E3AA8F",
+          "colour_name": "Magical"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "brand": "nyx",
+      "name": "Blotting Powder",
+      "price": 12,
+      "discount": 0,
+      "finalPrice": 12,
+      "stock": 13,
+      "description": "Kissed with the barest hint of pigment Blotting Powder takes down the shine without settling into fine lines polishing skin to satin matte perfection.",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2017-12-24T02:31:29.788Z",
+      "updatedAt": "2017-12-24T02:31:30.246Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/937.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/937/original/open-uri20171224-4-9ujiam?1514082689",
+      "colors": [
+        {
+          "hex_value": "#B27959",
+          "colour_name": "Deep"
+        },
+        {
+          "hex_value": "#F9DDC9",
+          "colour_name": "Light"
+        },
+        {
+          "hex_value": "#E4B881",
+          "colour_name": "Medium/Dark"
+        },
+        {
+          "hex_value": "#F3C6B1",
+          "colour_name": "Light/Medium"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "brand": "nyx",
+      "name": "#NOFILTER Finishing Powder",
+      "price": 12,
+      "discount": 0,
+      "finalPrice": 12,
+      "stock": 14,
+      "description": "Introduce us to someone who doesn’t love a good photo filter, and we’ll introduce you to our secret herd of pet unicorns. Our point? When it comes to getting our picture taken, we all love a good filter. That’s why we created #NoFilter Finishing Powder--our amazing new product that delivers a finish as flawless and soft as the most flattering filters on Instagram and beyond.",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2017-12-24T02:31:26.988Z",
+      "updatedAt": "2017-12-24T02:31:27.575Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/936.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/936/original/open-uri20171224-4-h5gd5x?1514082686",
+      "colors": [
+        {
+          "hex_value": "#F1D3B9",
+          "colour_name": "Alabaster"
+        },
+        {
+          "hex_value": "#ECC8A8",
+          "colour_name": "Porcelain"
+        },
+        {
+          "hex_value": "#EFC8AB",
+          "colour_name": "Ivory"
+        },
+        {
+          "hex_value": "#F0C4A7",
+          "colour_name": "Light"
+        },
+        {
+          "hex_value": "#EBC09E",
+          "colour_name": "Light Beige"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "brand": "nyx",
+      "name": "Primal Colors",
+      "price": 5,
+      "discount": 0,
+      "finalPrice": 5,
+      "stock": 19,
+      "description": "Unleash your inner theatrical makeup artist with these incredible pressed pigments. Creates a variety of special effects with the ultimate staying power.",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2017-12-24T02:31:21.681Z",
+      "updatedAt": "2017-12-24T02:31:22.481Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/933.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/933/original/open-uri20171224-4-18zslbp?1514082681",
+      "colors": [
+        {
+          "hex_value": "#D73469",
+          "colour_name": "Hot Pink"
+        },
+        {
+          "hex_value": "#B40D17",
+          "colour_name": "Hot Red"
+        },
+        {
+          "hex_value": "#DA4F32",
+          "colour_name": "Hot Orange"
+        },
+        {
+          "hex_value": "#F4D65C",
+          "colour_name": "Hot Yellow"
+        },
+        {
+          "hex_value": "#369D41",
+          "colour_name": "Hot Green"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "brand": "nyx",
+      "name": "Matte Bronzer",
+      "price": 9,
+      "discount": 20,
+      "finalPrice": 7.2,
+      "stock": 16,
+      "description": "Perfect for Spring Summer and beyond – the Matte Bronzers have arrived! Achieve a natural and healthy looking complexion using any of the powder bronzers available in five russet shades. Perfect for that desired honey glow all year long!",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "bronzer",
+      "tags": [],
+      "createdAt": "2017-12-24T02:28:51.848Z",
+      "updatedAt": "2017-12-24T02:30:56.462Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/926.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/926/original/open-uri20171224-4-6mx0la?1514082656",
+      "colors": [
+        {
+          "hex_value": "#C58965",
+          "colour_name": "Light"
+        },
+        {
+          "hex_value": "#AC7D63",
+          "colour_name": "Deep"
+        },
+        {
+          "hex_value": "#BB805E",
+          "colour_name": "Medium"
+        },
+        {
+          "hex_value": "#B27759",
+          "colour_name": "Dark Tan"
+        },
+        {
+          "hex_value": "#B17752",
+          "colour_name": "Deep Tan"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "brand": "nyx",
+      "name": "Retractable Lip Liner",
+      "price": 5,
+      "discount": 0,
+      "finalPrice": 5,
+      "stock": 25,
+      "description": "Love your lips! Create the perfect pout with our creamy, richly pigmented liner in an easy twist-up pencil. Renowned for its staying power! Available in 19 irresistible shades.",
+      "rating": 4,
+      "subcategory": "pencil",
+      "category": "lipliner",
+      "tags": [],
+      "createdAt": "2017-12-24T02:27:28.905Z",
+      "updatedAt": "2017-12-24T02:27:29.477Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/891.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/891/original/open-uri20171224-4-mgfb2y?1514082448",
+      "colors": [
+        {
+          "hex_value": "#E17F7C",
+          "colour_name": "Pinky Beige"
+        },
+        {
+          "hex_value": "#D86B7E",
+          "colour_name": "Soft Pink"
+        },
+        {
+          "hex_value": "#E67D84",
+          "colour_name": "Peony"
+        },
+        {
+          "hex_value": "#D45F65",
+          "colour_name": "Pretty In Pink"
+        },
+        {
+          "hex_value": "#C4686B",
+          "colour_name": "Nectar"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "brand": "nyx",
+      "name": "Simply Red Lip Cream",
+      "price": 6.5,
+      "discount": 0,
+      "finalPrice": 6.5,
+      "stock": 20,
+      "description": "A classic red pout never goes out of style! Our Simply Red Lip Cream collection gives you loads of color options varying from deep bright or pure red that you can’t go wrong with.",
+      "rating": 4,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2017-12-24T02:27:16.374Z",
+      "updatedAt": "2017-12-24T02:27:16.822Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/885.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/885/original/open-uri20171224-4-j5xh6b?1514082436",
+      "colors": [
+        {
+          "hex_value": "#D43748",
+          "colour_name": "Maraschino"
+        },
+        {
+          "hex_value": "#E62E50",
+          "colour_name": "Candy Apple"
+        },
+        {
+          "hex_value": "#F2626C",
+          "colour_name": "Russian Roulette"
+        },
+        {
+          "hex_value": "#FE5A50",
+          "colour_name": "Seduction"
+        },
+        {
+          "hex_value": "#D33556",
+          "colour_name": "Leading Lady"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "brand": "nyx",
+      "name": "In Your Element Lipstick - Air",
+      "price": 9,
+      "discount": 0,
+      "finalPrice": 9,
+      "stock": 17,
+      "description": "",
+      "rating": 4,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2017-12-24T02:27:04.998Z",
+      "updatedAt": "2017-12-24T02:27:05.298Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/875.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/875/original/open-uri20171224-4-16xna3r?1514082424",
+      "colors": [
+        {
+          "hex_value": "#A1483A",
+          "colour_name": "Glossy Pale Pink"
+        },
+        {
+          "hex_value": "#B5595C",
+          "colour_name": "Matte Rose"
+        },
+        {
+          "hex_value": "#C1573F",
+          "colour_name": "Glossy Peach"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "brand": "nyx",
+      "name": "Duo Chromatic Lip Gloss",
+      "price": 8,
+      "discount": 0,
+      "finalPrice": 8,
+      "stock": 15,
+      "description": "Want totally mesmerizing lips? Then chrome and get ’em with our brand-new Duo Chromatic Lip Gloss loaded with pearls. These lippies deliver awesome shine, a hint of color and an intense, 3-D finish. Each lightweight shade slips onto your lips smoothly without feeling sticky. Swipe them on alone or over any lipstick for an unforgettable effect.",
+      "rating": 4,
+      "subcategory": "lip_gloss",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2017-12-24T02:25:55.235Z",
+      "updatedAt": "2017-12-24T02:25:55.925Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/857.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/857/original/open-uri20171224-4-4k5tpf?1514082354",
+      "colors": [
+        {
+          "hex_value": "#CAA6A8",
+          "colour_name": "The New Normal"
+        },
+        {
+          "hex_value": "#E8BBBE",
+          "colour_name": "Booming"
+        },
+        {
+          "hex_value": "#DBACA4",
+          "colour_name": "Spring It On"
+        },
+        {
+          "hex_value": "#E6B06A",
+          "colour_name": "Cocktail Party"
+        },
+        {
+          "hex_value": "#EFA367",
+          "colour_name": "Fairplay"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "brand": "dior",
+      "name": "All-In-Brow 3D",
+      "price": 43,
+      "discount": 0,
+      "finalPrice": 43,
+      "stock": 13,
+      "description": "Inspired by the expert techniques of professional fashion show makeup artists, Dior presents its first eyebrow kit, which includes:",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "eyebrow",
+      "tags": [],
+      "createdAt": "2017-12-03T23:23:13.659Z",
+      "updatedAt": "2017-12-23T20:58:57.681Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/717.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/717/original/open-uri20171223-4-k72ych?1514062737",
+      "colors": [
+        {
+          "hex_value": "#786557",
+          "colour_name": "001 Brown"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "brand": "dior",
+      "name": "Sourcils Poudre",
+      "price": 20,
+      "discount": 0,
+      "finalPrice": 20,
+      "stock": 13,
+      "description": "The finish of a powder combined with the powerful definition of a wax in a professional pencil that gives a denser shape to the brow line for a naturally structured effect.",
+      "rating": 4,
+      "subcategory": "pencil",
+      "category": "eyebrow",
+      "tags": [],
+      "createdAt": "2017-12-03T23:23:12.519Z",
+      "updatedAt": "2017-12-23T20:58:57.438Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/716.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/716/original/open-uri20171223-4-lr6t41?1514062737",
+      "colors": [
+        {
+          "hex_value": "#37342C",
+          "colour_name": "093 Black"
+        },
+        {
+          "hex_value": "#8A6B55",
+          "colour_name": "433 Ash Blonde"
+        },
+        {
+          "hex_value": "#583D2F",
+          "colour_name": "453 Soft Brown"
+        },
+        {
+          "hex_value": "#68403E",
+          "colour_name": "593 Brown"
+        },
+        {
+          "hex_value": "#A0795F",
+          "colour_name": "653 Blonde"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "brand": "dior",
+      "name": "DIORSHOW BOLD BROW",
+      "price": 22,
+      "discount": 0,
+      "finalPrice": 22,
+      "stock": 13,
+      "description": "Immediately achieve lush, full, groomed brows.",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "eyebrow",
+      "tags": [],
+      "createdAt": "2017-12-03T23:23:10.007Z",
+      "updatedAt": "2017-12-23T20:58:56.344Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/713.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/713/original/open-uri20171223-4-1gf1ey3?1514062736",
+      "colors": [
+        {
+          "hex_value": "#6F5246",
+          "colour_name": "002 Dark"
+        },
+        {
+          "hex_value": "#A07B66",
+          "colour_name": "011 Light"
+        },
+        {
+          "hex_value": "#8C5F3D",
+          "colour_name": "021 Medium"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "brand": "dior",
+      "name": "Diorliner",
+      "price": 27,
+      "discount": 0,
+      "finalPrice": 27,
+      "stock": 13,
+      "description": "Click-pen eyeliner that delivers precise contouring and a flawlessly clean line. Diorliner deposits just the right amount of liner with a single click.",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "eyeliner",
+      "tags": [],
+      "createdAt": "2017-12-03T23:23:07.851Z",
+      "updatedAt": "2017-12-23T20:58:55.708Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/711.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/711/original/open-uri20171223-4-1x93p9h?1514062735",
+      "colors": [
+        {
+          "hex_value": "black",
+          "colour_name": "098 Black"
+        },
+        {
+          "hex_value": "#7E5F5C",
+          "colour_name": "798 Brown"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "brand": "dior",
+      "name": "Dior Addict It-Line",
+      "price": 26.5,
+      "discount": 25,
+      "finalPrice": 19.88,
+      "stock": 13,
+      "description": "Fashionable eyes with fabulous line and vibrant colour.",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "eyeliner",
+      "tags": [],
+      "createdAt": "2017-12-03T23:23:07.026Z",
+      "updatedAt": "2017-12-23T20:58:55.447Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/710.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/710/original/open-uri20171223-4-1pbovdl?1514062735",
+      "colors": [
+        {
+          "hex_value": "gray8",
+          "colour_name": "099 It-Black"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "brand": "dior",
+      "name": "Diorshow Iconic",
+      "price": 25.5,
+      "discount": 0,
+      "finalPrice": 25.5,
+      "stock": 13,
+      "description": "The first lash-lifting mascara by Dior.",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "mascara",
+      "tags": [],
+      "createdAt": "2017-12-03T23:23:01.795Z",
+      "updatedAt": "2017-12-23T20:58:54.054Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/706.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/706/original/open-uri20171223-4-kkri6q?1514062733",
+      "colors": [
+        {
+          "hex_value": "#0A0C0D",
+          "colour_name": "090 Black"
+        },
+        {
+          "hex_value": "#4D6895",
+          "colour_name": "268 Navy"
+        },
+        {
+          "hex_value": "#5A413D",
+          "colour_name": "698 Chestnut"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "brand": "dior",
+      "name": "Dior Addict It-Lash",
+      "price": 25.5,
+      "discount": 0,
+      "finalPrice": 25.5,
+      "stock": 13,
+      "description": "Dior Addict It-lash can transform the eyes in a single flourish for a fabulous impact, as if by magic. Volume, length and the most extraordinary stylistic effects come together to achieve a fashion-forward, modern-day doe-eyed look. With unconditional hold, easy to apply and easy to remove, it is the ideal mascara for women who want it all, and want it now.",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "mascara",
+      "tags": [],
+      "createdAt": "2017-12-03T23:23:00.160Z",
+      "updatedAt": "2017-12-23T20:58:53.372Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/704.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/704/original/open-uri20171223-4-1543imh?1514062733",
+      "colors": [
+        {
+          "hex_value": "black",
+          "colour_name": "092 It-Black"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "brand": "dior",
+      "name": "Couture Colour Wardrobe palette",
+      "price": 65,
+      "discount": 0,
+      "finalPrice": 65,
+      "stock": 15,
+      "description": "Directly inspired by runway shows, the Couture Colour Wardrobe palette teams fresh and natural colours with vibrant and sophisticated shades to create countless custom makeup looks to suit any moment.",
+      "rating": 4,
+      "subcategory": "palette",
+      "category": "eyeshadow",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:53.414Z",
+      "updatedAt": "2017-12-26T00:33:00.563Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/697.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/697/original/open-uri20171223-4-1tgdgkb?1514062732",
+      "colors": [
+        {
+          "hex_value": "#C48A80",
+          "colour_name": "000"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "brand": "dior",
+      "name": "Eye Reviver",
+      "price": 43,
+      "discount": 0,
+      "finalPrice": 43,
+      "stock": 15,
+      "description": "Dior has created its 1st illuminating palette to brighten the eyes with an instant radiance-boosting effect. Using Glow-MimeticsTM technology, the incredibly luminous universal neutrals recreate the radiance of a flawless eyelid. The shades combine in perfect harmony with the primer and liner to create smooth, even and wider-looking eyes, while adding structure and brightness.",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "eyeshadow",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:52.370Z",
+      "updatedAt": "2017-12-23T20:58:52.094Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/695.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/695/original/open-uri20171223-4-a5l25v?1514062732",
+      "colors": [
+        {
+          "hex_value": "#A48473",
+          "colour_name": "001"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "brand": "dior",
+      "name": "5 COULEURS PRECIOUS ROCKS - Christmas 2017 Limited Edition",
+      "price": 43.5,
+      "discount": 0,
+      "finalPrice": 43.5,
+      "stock": 15,
+      "description": "Emblematic of Dior eye makeup, this winter, the 5 Couleurs palette has been reinterpreted in two limited editions featuring ruby and emerald tones.",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "eyeshadow",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:49.724Z",
+      "updatedAt": "2017-12-23T20:58:51.579Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/693.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/693/original/open-uri20171223-4-1psqtni?1514062731",
+      "colors": [
+        {
+          "hex_value": "#D7D8CC",
+          "colour_name": "347 Emerald"
+        },
+        {
+          "hex_value": "#DCC1BF",
+          "colour_name": "857 Ruby"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "brand": "dior",
+      "name": "Diorshow Fusion Mono",
+      "price": 25.5,
+      "discount": 0,
+      "finalPrice": 25.5,
+      "stock": 17,
+      "description": "A weightless texture that blends into the skin and dresses the eye in velvety colour. In a single step, it creates an even and intense matte finish for a professional makeup effect.",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "eyeshadow",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:40.725Z",
+      "updatedAt": "2017-12-23T20:58:50.521Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/689.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/689/original/open-uri20171223-4-b1imkg?1514062730",
+      "colors": [
+        {
+          "hex_value": "#EDE9E6",
+          "colour_name": "001 Lune"
+        },
+        {
+          "hex_value": "#93867A",
+          "colour_name": "381 Millenium"
+        },
+        {
+          "hex_value": "#BD9171",
+          "colour_name": "661 Météore"
+        },
+        {
+          "hex_value": "#BD9E9B",
+          "colour_name": "771"
+        },
+        {
+          "hex_value": "#826A73",
+          "colour_name": "881 Hypnotique"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "brand": "dior",
+      "name": "DIORBLUSH PRECIOUS ROCKS - Christmas 2017 Limited Edition",
+      "price": 20,
+      "discount": 0,
+      "finalPrice": 20,
+      "stock": 17,
+      "description": "The new limited-edition Diorblush showcases every facet of the Precious Rocks collection. Printed with a prismatic motif that reflects that of a precious stone, its sheer, peach colour blends seamlessly with your skin to deliver a fresh, crystal-clear complexion.",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "blush",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:36.467Z",
+      "updatedAt": "2017-12-23T20:58:48.998Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/686.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/686/original/open-uri20171223-4-msf54n?1514062728",
+      "colors": [
+        {
+          "hex_value": "#EF8687",
+          "colour_name": "864 Precious Rocks"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "brand": "dior",
+      "name": "Diorblush Sculpt",
+      "price": 32.5,
+      "discount": 0,
+      "finalPrice": 32.5,
+      "stock": 17,
+      "description": "The first contouring blush by Dior, Diorblush Sculpt allows you to easily redefine the face’s structure and volumes with the precision of a makeup artist thanks to its two contrasting shades.",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "blush",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:35.267Z",
+      "updatedAt": "2017-12-23T20:58:48.814Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/685.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/685/original/open-uri20171223-4-1p1tlsw?1514062728",
+      "colors": [
+        {
+          "hex_value": "#DA9A8E",
+          "colour_name": "001 Pink Shape"
+        },
+        {
+          "hex_value": "#D6A086",
+          "colour_name": "002 Coral Shape"
+        },
+        {
+          "hex_value": "#D3A895",
+          "colour_name": "003 Beige Contour"
+        },
+        {
+          "hex_value": "#C69E8A",
+          "colour_name": "004 Brown Contour"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "brand": "dior",
+      "name": "Diorskin Nude Air Tan",
+      "price": 36.5,
+      "discount": 0,
+      "finalPrice": 36.5,
+      "stock": 17,
+      "description": "Diorskin Nude Air bronzing powders warm the original skin tone and let the skin breathe for the continual radiant beauty of a sun-kissed healthy glow. Choose the perfect shade of tan, in matte or satiny.",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "bronzer",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:30.765Z",
+      "updatedAt": "2017-12-23T20:58:49.791Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/683.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/683/original/open-uri20171223-4-1nzl361?1514062729",
+      "colors": [
+        {
+          "hex_value": "#CD9163",
+          "colour_name": "001 Golden Honey"
+        },
+        {
+          "hex_value": "#CD9068",
+          "colour_name": "002 Amber"
+        },
+        {
+          "hex_value": "#D8996C",
+          "colour_name": "003 Cinnamon"
+        },
+        {
+          "hex_value": "#B17252",
+          "colour_name": "035 Matte Cinnamon"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "brand": "dior",
+      "name": "Diorskin nude air powder",
+      "price": 36.5,
+      "discount": 0,
+      "finalPrice": 36.5,
+      "stock": 17,
+      "description": "The ultimate finishing touch, impressively lightweight Diorskin Nude Air loose and compact powders maintain the illusion of a fresh and radiant face.",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:27.744Z",
+      "updatedAt": "2017-12-23T20:58:47.453Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/680.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/680/original/open-uri20171223-4-qtckl4?1514062727",
+      "colors": [
+        {
+          "hex_value": "#E7BEA0",
+          "colour_name": "020 Light Beige"
+        },
+        {
+          "hex_value": "#DDAD84",
+          "colour_name": "030 Medium Beige"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "brand": "dior",
+      "name": "Fix It Colour",
+      "price": 23.5,
+      "discount": 0,
+      "finalPrice": 23.5,
+      "stock": 17,
+      "description": "Inspired by Backstage makeup techniques, Dior invents its first multipurpose colour concealer: 1 stick, 2 textures, 3 application areas, 4 expert shades to target and neutralize the colour imperfections of the complexion and around the eye and lip contours.",
+      "rating": 4,
+      "subcategory": "concealer",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:24.860Z",
+      "updatedAt": "2017-12-23T20:58:46.299Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/677.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/677/original/open-uri20171223-4-16x99yk?1514062726",
+      "colors": [
+        {
+          "hex_value": "#D1D4E3",
+          "colour_name": "100 Blue"
+        },
+        {
+          "hex_value": "#EEC8B9",
+          "colour_name": "200 Apricot"
+        },
+        {
+          "hex_value": "#EBDBB9",
+          "colour_name": "300 Yellow"
+        },
+        {
+          "hex_value": "#CEDFC6",
+          "colour_name": "400 Green"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "brand": "dior",
+      "name": "Diorskin Forever Undercover",
+      "price": 21,
+      "discount": 0,
+      "finalPrice": 21,
+      "stock": 17,
+      "description": "A veritable concentrate of Dior laboratories' expertise, this intuitive formula isn't afraid of a challenge: with a single stroke it provides instant camouflage for imperfections, water resistance and 8-hour** wear.",
+      "rating": 4,
+      "subcategory": "concealer",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:22.682Z",
+      "updatedAt": "2017-12-23T20:58:46.032Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/676.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/676/original/open-uri20171223-4-m191xo?1514062725",
+      "colors": [
+        {
+          "hex_value": "#E3CAB3",
+          "colour_name": "010 Ivory"
+        },
+        {
+          "hex_value": "#E8D1B7",
+          "colour_name": "011 Creme"
+        },
+        {
+          "hex_value": "#DCBDA1",
+          "colour_name": "020 Light Beige"
+        },
+        {
+          "hex_value": "#E8CBAC",
+          "colour_name": "021 Linen"
+        },
+        {
+          "hex_value": "#E4C5B1",
+          "colour_name": "022 Cameo"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "brand": "dior",
+      "name": "FIX IT",
+      "price": 23.5,
+      "discount": 0,
+      "finalPrice": 23.5,
+      "stock": 17,
+      "description": "1 stick, 2 textures, 3 application areas.",
+      "rating": 4,
+      "subcategory": "concealer",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:21.441Z",
+      "updatedAt": "2017-12-23T20:58:42.480Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/675.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/675/original/open-uri20171223-4-vr9zss?1514062722",
+      "colors": [
+        {
+          "hex_value": "#F0D9C6",
+          "colour_name": "001 Light"
+        },
+        {
+          "hex_value": "#F0D4C2",
+          "colour_name": "002 Medium"
+        },
+        {
+          "hex_value": "#E4C4AD",
+          "colour_name": "003 Dark"
+        },
+        {
+          "hex_value": "#DEBEA3",
+          "colour_name": "025 Medium Beige"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "brand": "dior",
+      "name": "Dior Addict Ultra-Gloss",
+      "price": 24,
+      "discount": 5,
+      "finalPrice": 22.8,
+      "stock": 17,
+      "description": "More than just a gloss, Dior Addict Ultra-Gloss is a lip plumper and gloss all in one.",
+      "rating": 4,
+      "subcategory": "lip_gloss",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:12.664Z",
+      "updatedAt": "2017-12-23T20:58:45.455Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/672.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/672/original/open-uri20171223-4-1jr6g64?1514062725",
+      "colors": [
+        {
+          "hex_value": "#E0E4EA",
+          "colour_name": "004 Tiara"
+        },
+        {
+          "hex_value": "#E7CDB2",
+          "colour_name": "013 Mise en Dior"
+        },
+        {
+          "hex_value": "#D9B6AB",
+          "colour_name": "211"
+        },
+        {
+          "hex_value": "#F4A9A9",
+          "colour_name": "267 So Real"
+        },
+        {
+          "hex_value": "#F4A2A3",
+          "colour_name": "363 Nude"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "brand": "dior",
+      "name": "Cheek & Lip Glow",
+      "price": 27.5,
+      "discount": 0,
+      "finalPrice": 27.5,
+      "stock": 17,
+      "description": "Dior creates its first cheek and lip blush to create a flush of pink on the skin.",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "blush",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:11.460Z",
+      "updatedAt": "2017-12-23T20:58:49.448Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/671.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/671/original/open-uri20171223-4-4vqvon?1514062729",
+      "colors": [
+        {
+          "hex_value": "#E1000F",
+          "colour_name": "001"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "brand": "dior",
+      "name": "DIORIFIC KHÔL",
+      "price": 29.5,
+      "discount": 0,
+      "finalPrice": 29.5,
+      "stock": 17,
+      "description": "For the first time at Dior, Diorific is now available as Lip Khôl designed to adorn your lips in intense colour with a powdery, matte finish.",
+      "rating": 4,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2017-12-03T23:22:09.776Z",
+      "updatedAt": "2017-12-23T20:58:44.968Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/669.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/669/original/open-uri20171223-4-1r1wmbn?1514062724",
+      "colors": [
+        {
+          "hex_value": "#E17D79",
+          "colour_name": "341 Pure Topaz"
+        },
+        {
+          "hex_value": "#C95B86",
+          "colour_name": "671 Vibrant Tourmaline"
+        },
+        {
+          "hex_value": "#864640",
+          "colour_name": "741 Deep Ruby"
+        },
+        {
+          "hex_value": "#CD2E3A",
+          "colour_name": "751 Intense Garnet"
+        },
+        {
+          "hex_value": "#604751",
+          "colour_name": "991 Bold Amethyst"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "brand": "dior",
+      "name": "DIOR ADDICT LACQUER STICK",
+      "price": 27.5,
+      "discount": 0,
+      "finalPrice": 27.5,
+      "stock": 18,
+      "description": "Try Dior Addict Lacquer Stick, the new-generation lacquer stick by Dior, as easy to apply as it is to wear. A stick with a \"lip fondant\" effect that liberates all the colour and shine of a lacquer, plus the comfort of a balm, with 6 hours* of wear and unrivaled texture.",
+      "rating": 4,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2017-12-03T23:21:56.663Z",
+      "updatedAt": "2017-12-23T20:58:43.466Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/665.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/665/original/open-uri20171223-4-tcsi74?1514062723",
+      "colors": [
+        {
+          "hex_value": "#F19183",
+          "colour_name": "344 Rolling"
+        },
+        {
+          "hex_value": "#A15C61",
+          "colour_name": "420 Underground"
+        },
+        {
+          "hex_value": "#EB636B",
+          "colour_name": "457 Palm Beach"
+        },
+        {
+          "hex_value": "#EB5C97",
+          "colour_name": "487 Bubble"
+        },
+        {
+          "hex_value": "#E47082",
+          "colour_name": "550 Tease"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "brand": "dior",
+      "name": "ROUGE DIOR COLLECTION COUTURE - Christmas Look 2017 Limited Edition",
+      "price": 29.5,
+      "discount": 0,
+      "finalPrice": 29.5,
+      "stock": 18,
+      "description": "The must-have of the collection, Rouge Dior has been reinterpreted for the holiday season, with the Bijou edition of the 999 Matte shade featuring a faceted cannage band.",
+      "rating": 4,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2017-12-03T23:21:53.603Z",
+      "updatedAt": "2017-12-23T20:58:43.097Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/663.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/663/original/open-uri20171223-4-sznyox?1514062723",
+      "colors": [
+        {
+          "hex_value": "#BA1B2B",
+          "colour_name": "999 Matte"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "brand": "dior",
+      "name": "Rouge Dior Liquid",
+      "price": 26.5,
+      "discount": 15,
+      "finalPrice": 22.53,
+      "stock": 18,
+      "description": "Rouge Dior has yet again been reinvented with the first liquid lipstick formula by Dior with multiple effects and surprising colour impact. Coverage, 12h* long wear and comfort: a true gem available in 3 vibrant finishes – matte, metal and satin.",
+      "rating": 4,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2017-12-03T23:07:49.795Z",
+      "updatedAt": "2017-12-23T20:58:41.306Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/658.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/658/original/open-uri20171223-4-1c7npm6?1514062721",
+      "colors": [
+        {
+          "hex_value": "#F08885",
+          "colour_name": "162 MISS SATIN"
+        },
+        {
+          "hex_value": "#C27F75",
+          "colour_name": "221 CHIC MATTE"
+        },
+        {
+          "hex_value": "#DA6272",
+          "colour_name": "265 FURY MATTE"
+        },
+        {
+          "hex_value": "#D17B67",
+          "colour_name": "334 VIBRANT METAL"
+        },
+        {
+          "hex_value": "#CB657E",
+          "colour_name": "375 SPICY METAL"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Infallible Pro-Contour Palette in Medium ",
+      "price": 19.99,
+      "discount": 0,
+      "finalPrice": 19.99,
+      "stock": 16,
+      "description": "The L'Oreal Paris Infallible Pro-Contour Palette makes contouring easy. Use the pro-contour brush to enhance and define features for a professional contoured look. Perfectly coordinated highlighting and contouring shades blend easily after applying for a flawless contoured look. Features:Contours in 30 secondsDefinesHighlightsBrush includedHow to Use: Step 1: Use the lighter shade to highlight and create extra dimensions. Step 2: Accentuate contours with the darker shade. Step 3: Blend and buff for a professionally defined look. ",
+      "rating": 4,
+      "subcategory": "powder",
+      "category": "bronzer",
+      "tags": [],
+      "createdAt": "2016-10-01T18:35:29.686Z",
+      "updatedAt": "2017-12-23T21:08:51.586Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/470.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/470/original/open-uri20171223-4-1gr8r81?1514063331",
+      "colors": [
+        {
+          "hex_value": "#B18A77",
+          "colour_name": "medium"
+        },
+        {
+          "hex_value": "#B0907C",
+          "colour_name": "light"
+        },
+        {
+          "hex_value": "#9C7667",
+          "colour_name": "Deep"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris True Match",
+      "price": 16.49,
+      "discount": 0,
+      "finalPrice": 16.49,
+      "stock": 25,
+      "description": "True Match Blush flawlessly complements your skin's texture and tone and coordinates perfectly with True Match Makeup, Powder, and Concealer.Opti-Match technology creates uniquely true-to-life shades that flawlessly complement your skintone and undertone to perfection, leaving you with the most natural flush of colour imaginable.A unique Opti-BlendTM formula provides a skin-true texture that blends smoothly, never looks chalky or cakey.  Stays fresh and natural looking hour after hour.Oil-free, vitamin-rich, and non-comedogenic.",
+      "rating": 4.8,
+      "subcategory": "powder",
+      "category": "blush",
+      "tags": [],
+      "createdAt": "2016-10-01T18:34:59.254Z",
+      "updatedAt": "2017-12-23T21:08:46.196Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/447.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/447/original/data?1514063326",
+      "colors": [
+        {
+          "hex_value": "#E9B899",
+          "colour_name": "Tender Rose "
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "brand": "maybelline",
+      "name": "Maybelline Fit Me Blush",
+      "price": 10.29,
+      "discount": 0,
+      "finalPrice": 10.29,
+      "stock": 25,
+      "description": "Maybelline Fit Me Blush has lightweight pigments blend easily and wear evenly. It provides a natural, fade-proof cheek color that leaves skin the way it was meant to be...fresh, breathing, and natural.\n\nFor Best Results: For soft, natural look, brush along cheekbone, sweeping upward.",
+      "rating": 4.8,
+      "subcategory": "powder",
+      "category": "blush",
+      "tags": [],
+      "createdAt": "2016-10-01T18:34:46.302Z",
+      "updatedAt": "2017-12-23T21:08:45.097Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/439.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/439/original/open-uri20171223-4-1max36x?1514063325",
+      "colors": [
+        {
+          "hex_value": "#FB8684",
+          "colour_name": "Deep Coral  "
+        },
+        {
+          "hex_value": "#F27988",
+          "colour_name": "Deep Rose "
+        },
+        {
+          "hex_value": "#C94A50",
+          "colour_name": "Deep Wine "
+        },
+        {
+          "hex_value": "#FFAAAF",
+          "colour_name": "Light Rose "
+        },
+        {
+          "hex_value": "#FC9D8F",
+          "colour_name": "Medium Coral  "
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Visible Lift Blur Blush ",
+      "price": 15.99,
+      "discount": 0,
+      "finalPrice": 15.99,
+      "stock": 25,
+      "description": "Create an instantly just kissed glow with L'Oreal Paris Visible Lift Blur™ Blush. The \ncushiony soft texture glides over skin to blur away dullness for \ninstantly radiant looking skin.Ingredients: CYCLOPENTASILOXANE / DIMETHICONE\nCROSSPOLYMER / ALUMINA / DISODIUM\nSTEAROYL GLUTAMATE / ALUMINUM\nHYDROXIDE  [+/- MAY CONTAIN: MICA / CI 77891 - TITANIUM\nDIOXIDE / CI 45410 - RED 28 LAKE / CI\n73360 - RED 30 / CI 19140 - YELLOW 5\nLAKE / CI 77491, CI 77492, CI 77499 -\nIRON OXIDES] \n\n",
+      "rating": 4,
+      "subcategory": "cream",
+      "category": "blush",
+      "tags": [],
+      "createdAt": "2016-10-01T18:34:24.363Z",
+      "updatedAt": "2017-12-23T21:08:41.364Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/419.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/419/original/data?1514063321",
+      "colors": [
+        {
+          "hex_value": "#F26F81",
+          "colour_name": "Soft Berry "
+        },
+        {
+          "hex_value": "#F2869D",
+          "colour_name": "Soft Pink "
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "brand": "maybelline",
+      "name": "Maybelline Dream Bouncy Blush",
+      "price": 11.99,
+      "discount": 0,
+      "finalPrice": 11.99,
+      "stock": 25,
+      "description": "Now, blush has bounce! Freshest flush ever:• New bouncy texture is formulated with silicone elastomers• Lightweight like a powder, yet melts seamlessly into skin like a cream giving you a fresh flush• Dermatologist tested• Allergy tested• Non-comedogenic\n                    \n                    \n                    \n                        \n                        For best results: With your fingertips, blend a small amount of\n blush onto the apples of your cheeks, applying from your cheekbones to \nyour temples. To build colour intensity, apply more blush. \n                    ",
+      "rating": 4.5,
+      "subcategory": "cream",
+      "category": "blush",
+      "tags": [],
+      "createdAt": "2016-10-01T18:34:17.251Z",
+      "updatedAt": "2017-12-23T21:08:40.418Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/414.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/414/original/open-uri20171223-4-cjvuw0?1514063320",
+      "colors": [
+        {
+          "hex_value": "#ecc3d5",
+          "colour_name": "Fresh Pink "
+        },
+        {
+          "hex_value": "#ee9cb1",
+          "colour_name": "Hot Tamale "
+        },
+        {
+          "hex_value": "#ecbaba",
+          "colour_name": "Peach Satin "
+        },
+        {
+          "hex_value": "#c25159",
+          "colour_name": "Plum Wine "
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Colour Riche Lip Liner",
+      "price": 11.29,
+      "discount": 0,
+      "finalPrice": 11.29,
+      "stock": 25,
+      "description": "Colour Riche Creamy Anti-Feathering Lip Liners create definition and coordinate perfectly with Colour Riche Lipcolour.  Colour Riche Lip Liner is formulated with ultra-hydrating Omega 3 and protective Vitamin E to keep lips moisturized, soft and supple.  ",
+      "rating": 4,
+      "subcategory": "pencil",
+      "category": "lipliner",
+      "tags": [],
+      "createdAt": "2016-10-01T18:33:41.322Z",
+      "updatedAt": "2017-12-23T21:08:37.317Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/400.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/400/original/data?1514063317",
+      "colors": [
+        {
+          "hex_value": "#B7656D",
+          "colour_name": "All About Pink "
+        },
+        {
+          "hex_value": "#6D071D",
+          "colour_name": "Always Red "
+        },
+        {
+          "hex_value": "#A05F51",
+          "colour_name": "Au Naturale "
+        },
+        {
+          "hex_value": "#AE7374",
+          "colour_name": "Beyond Pink "
+        },
+        {
+          "hex_value": "#891635",
+          "colour_name": "Lasting Plum "
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Infallible Never Fail Lip Liner",
+      "price": 11.99,
+      "discount": 0,
+      "finalPrice": 11.99,
+      "stock": 25,
+      "description": "L'Oreal Paris Infallible Never Fail Lip Liner is the perfect long-lasting lip liner.No touch-ups. No feathering. No fading! Just a rich and creamy formula that goes on smooth and even, leaving your lips soft and comfortable for hours. ",
+      "rating": 4.2,
+      "subcategory": "pencil",
+      "category": "lipliner",
+      "tags": [],
+      "createdAt": "2016-10-01T18:33:38.828Z",
+      "updatedAt": "2017-12-23T21:08:34.886Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/397.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/397/original/open-uri20171223-4-4rl281?1514063314",
+      "colors": [
+        {
+          "hex_value": "#6d3735",
+          "colour_name": "Brown "
+        },
+        {
+          "hex_value": "#803339",
+          "colour_name": "Plum "
+        },
+        {
+          "hex_value": "#862c3b",
+          "colour_name": "Red Wine "
+        },
+        {
+          "hex_value": "#884f3f",
+          "colour_name": "Nude "
+        },
+        {
+          "hex_value": "#945a62",
+          "colour_name": "Rose "
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "brand": "maybelline",
+      "name": "Maybelline Fit Me Shine-Free Foundation Stick",
+      "price": 10.99,
+      "discount": 0,
+      "finalPrice": 10.99,
+      "stock": 25,
+      "description": "Get flawless, shine-free skin instantly and on-the-go for tailor-made \nmattifying coverage.  The anti-shine core has ultra-lightweight powders \nbuilt in to the stick foundation to instantly dissolve excess oil. Features: Maybelline's first gel stick foundation with an anti-shine core\nFresh gel foundation blends to a flawless matte finish\nLightweight powders in the anti-shine core instantly dissolve excess oil",
+      "rating": 4.7,
+      "subcategory": "cream",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2016-10-01T18:33:11.836Z",
+      "updatedAt": "2017-12-23T21:08:33.623Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/380.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/380/original/open-uri20171223-4-13lju4x?1514063313",
+      "colors": [
+        {
+          "hex_value": "#FFE4C6",
+          "colour_name": "Porcelain (110) "
+        },
+        {
+          "hex_value": "#FFE5C1",
+          "colour_name": "Ivory (115) "
+        },
+        {
+          "hex_value": "#FFD9B9",
+          "colour_name": "Classic Ivory (120) "
+        },
+        {
+          "hex_value": "#FACFA8",
+          "colour_name": "Natural Beige (220) "
+        },
+        {
+          "hex_value": "#D39B70",
+          "colour_name": "Toffee (330) "
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "brand": "maybelline",
+      "name": "Maybelline Dream Matte Mousse Foundation",
+      "price": 14.79,
+      "discount": 0,
+      "finalPrice": 14.79,
+      "stock": 25,
+      "description": "Maybelline Dream Matte Mouse Foundation is a revolutionary air-soft mousse that provides perfecting coverage for 100% velvet-matte complexion. It's non-comedogenic, fragrance-free, dermatologist-tested, allergy-tested and ideal for normal to oily skin.For best results: Apply smoothly and evenly to your face and blend with your fingertips.",
+      "rating": 4.4,
+      "subcategory": "cream",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2016-10-01T18:33:10.614Z",
+      "updatedAt": "2017-12-23T21:08:33.441Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/379.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/379/original/open-uri20171223-4-1koue12?1514063313",
+      "colors": [
+        {
+          "hex_value": "#f3d7b3",
+          "colour_name": "Classic Ivory "
+        },
+        {
+          "hex_value": "#dfc5a8",
+          "colour_name": "Light Beige "
+        },
+        {
+          "hex_value": "#edd3ac",
+          "colour_name": "Nude "
+        },
+        {
+          "hex_value": "#f5dfc3",
+          "colour_name": "Porcelain Ivory "
+        },
+        {
+          "hex_value": "#d9bcaf",
+          "colour_name": "Pure Beige "
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "brand": "maybelline",
+      "name": "Maybelline Superstay Better Skin Foundation ",
+      "price": 14.99,
+      "discount": 10,
+      "finalPrice": 14.99,
+      "stock": 25,
+      "description": "The Maybelline Superstay Better Skin Foundation reduces the appearance of spots, bumps, dullness and redness to give you brighter, smoother and more even skin. Features:Longwear that improves skin every minute you're in it: brighter, smoother and more even.With micro-flex technology and the antioxidant power of Actyl-C.Ideal for sensitive skin. Good for all skin types. Medium to full coverageHow to Apply: Apply evenly to your face and blend with your fingers. ",
+      "rating": 3,
+      "subcategory": "liquid",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2016-10-01T18:32:19.867Z",
+      "updatedAt": "2017-12-23T21:08:27.318Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/353.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/353/original/open-uri20171223-4-q9ubsf?1514063307",
+      "colors": [
+        {
+          "hex_value": "#9A6438",
+          "colour_name": "Coconut  "
+        },
+        {
+          "hex_value": "#DCBCA3",
+          "colour_name": "Ivory "
+        },
+        {
+          "hex_value": "#ECD3B2",
+          "colour_name": "Porcelain "
+        },
+        {
+          "hex_value": "#C99F6D",
+          "colour_name": "Rich Tan  "
+        },
+        {
+          "hex_value": "#CA9B5F",
+          "colour_name": "Sun Beige  "
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris True Match Lumi Glow Liquid Foundation",
+      "price": 16.99,
+      "discount": 0,
+      "finalPrice": 16.99,
+      "stock": 25,
+      "description": "The ultimate in luminosity. L’Oréal Paris introduces its first liquid highlighter specifically crafted to highlight key features or illuminate all-over. Designed in Golden, Rose, and Ice shades that flatter every skintone from warm to neutral to cool. Features:Golden Illuminator enhances peachy or yellow tones in warm skintonesRose Illuminator enhances yellow, peachy, pink or blue tones in neutral skintonesIce Illuminator enhances pink or blue tones in cool skintonesHighlight key features or illuminate all-overLightweight formulaFor every skintone & undertoneINGREDIENTS: AQUA/WATER/EAU, DIMETHICONE, GLYCERIN, ALCOHOL DENAT, SYNTHETIC FLUORPHLOGOPITE, DIMETHICONE/POLYGLYCERIN-3, CROSSPOLYMER, ACRYLAMIDE/SODIUM, ACRYLOYLDIMETHYLTAURATE COPOLYMER, PHENOXYETHANOL, ISOHEXADECANE, CAPRYLYL GLYCOL, POLYSORBATE 80, DIPROPYLENE, GLYCOL TIN OXIDE ",
+      "rating": 3,
+      "subcategory": "liquid",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2016-10-01T18:32:15.758Z",
+      "updatedAt": "2017-12-23T21:08:26.250Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/350.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/350/original/open-uri20171223-4-vetytd?1514063306",
+      "colors": [
+        {
+          "hex_value": "#E2A587",
+          "colour_name": "Golden "
+        },
+        {
+          "hex_value": "#F9E6E0",
+          "colour_name": "Ice "
+        },
+        {
+          "hex_value": "#DBA777",
+          "colour_name": "Rose "
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "brand": "covergirl",
+      "name": "CoverGirl Ready, Set Gorgeous Liquid Makeup 105",
+      "price": 8.99,
+      "discount": 0,
+      "finalPrice": 8.99,
+      "stock": 25,
+      "description": "CoverGirl Ready, Set Gorgeous foundation provides a flawless, natural look that lasts all day in one simple step!Features:Blends easily to even skin tone for a flawless lookShine free look lasts all dayOil free, won't clog poresApplication Tips: Dot foundation on forehead, cheeks and chin. Blend using fingertips or a makeup sponge. Use with any COVERGIRL Pressed Powder to help your look last.",
+      "rating": 2,
+      "subcategory": "liquid",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2016-10-01T18:32:14.608Z",
+      "updatedAt": "2017-12-23T21:08:26.081Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/349.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/349/original/data?1514063306",
+      "colors": [
+        {
+          "hex_value": "#F5C8A6",
+          "colour_name": "105"
+        },
+        {
+          "hex_value": "#E6B98F",
+          "colour_name": "115"
+        },
+        {
+          "hex_value": "#EEC392",
+          "colour_name": "210"
+        },
+        {
+          "hex_value": "#9A7751",
+          "colour_name": "320"
+        },
+        {
+          "hex_value": "#F5C497",
+          "colour_name": "215"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Visible Lift Blur Foundation ",
+      "price": 18.99,
+      "discount": 0,
+      "finalPrice": 18.99,
+      "stock": 25,
+      "description": "Discover instantly ageless skin. L'Oreal Paris Visible Lift Blur™ features Opti-Blur™ \ntechnology with a cushiony soft texture that glides on to blur the look \nof lines, wrinkles and uneven skin tone in seconds. Skin looks \nflawlessly smooth, instantly perfected.Ingredients: CYCLOPENTASILOXANE,\nAQUA, ETHYLHEXYL\nMETHOXYCINNAMATE,\nDIMETHICONE\nCROSSPOLYMER,\nGLYCERIN, ISOTRIDECYL\nISONONANOATE, PEG-9\nPOLYDIMETHYLSILOXYETHYL\nDIMETHICONE,\nDISTEARDIMONIUM\nHECTORITE,\nPHENOXYETHANOL,\nPEG-10 DIMETHICONE,\nHYDROLYZED WHEAT\nPROTEIN/PVP\nCROSSPOLYMER,\nDISODIUM STEAROYL\nGLUTAMATE,\nCHLORPHENESIN,\nMETHYLPARABEN,\nLYCIUM BARBARUM\nFRUIT EXTRACT,\nACRYLATES\nCOPOLYMER,\nPOTASSIUM SORBATE,\nETHYLPARABEN,\nTOCOPHEROL,\nASCORBYL PALMITATE,\nPANTHENOL, PEG-9,\nALUMINUM HYDROXIDE,\nCITRIC ACID, SODIUM\nPCA, UREA, TREHALOSE,\nPOLYQUATERNIUM-51,\nSOLUBLE COLLAGEN,\nSODIUM HYALURONATE.\n[+/- : CI 77891, MICA,\nCI 77492, CI 77491,\nCI 77499]\n\n\n",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2016-10-01T18:32:08.987Z",
+      "updatedAt": "2017-12-23T21:08:25.277Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/345.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/345/original/data?1514063305",
+      "colors": [
+        {
+          "hex_value": "#F9D4B6",
+          "colour_name": "Light Ivory "
+        },
+        {
+          "hex_value": "#FCD1B9",
+          "colour_name": "Classic Ivory "
+        },
+        {
+          "hex_value": "#E4B99C",
+          "colour_name": "Nude Beige  "
+        },
+        {
+          "hex_value": "#EAC2A8",
+          "colour_name": "Creamy Natural "
+        },
+        {
+          "hex_value": "#E1B090",
+          "colour_name": "Natural Buff "
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris True Match Lumi Cushion Foundation",
+      "price": 26.99,
+      "discount": 0,
+      "finalPrice": 26.99,
+      "stock": 25,
+      "description": "Liquid foundation revolutionized – a fresh luminous glow in a tap. Introducing the new L'Oreal Paris True Match Lumi Cushion, an innovative cushion drenched in liquid foundation. Tap a little for a fresh natural glow, tap on more to build a new level of luminous coverage.Features:Effortless applicationCompletely buildableOn-the-go coverageFormulated with Precise Match Technology to match your skin’s tone and textureAvailable in 8 true-to-skin shadesFinish: fresh & luminousCoverage: sheer to medium, buildable coverageFor all skin types",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2016-10-01T18:31:51.174Z",
+      "updatedAt": "2017-12-23T21:08:21.988Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/335.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/335/original/data?1514063301",
+      "colors": [
+        {
+          "hex_value": "#D09A7A",
+          "colour_name": "Buff Beige  "
+        },
+        {
+          "hex_value": "#DDB494",
+          "colour_name": "Classic Buff "
+        },
+        {
+          "hex_value": "#E1BD9E",
+          "colour_name": "Classic Ivory  "
+        },
+        {
+          "hex_value": "#EEB895",
+          "colour_name": "Creamy Natural  "
+        },
+        {
+          "hex_value": "#F0C8A4",
+          "colour_name": "Light Ivory  "
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "brand": "l'oreal",
+      "name": "L'Oreal Visible Lift Serum Absolute",
+      "price": 20.49,
+      "discount": 0,
+      "finalPrice": 20.49,
+      "stock": 25,
+      "description": "Introducing a breakthrough in age minimizing makeup.Only Visible Lift Serum Absolute features an age reversing serum of 5 ingredients in 1 luminous makeup. This new makeup instantly evens skin tone with a luxuriously lightweight formula that doesn't settle into lines and wrinkles.In 4 weeks, the potent formula addresses 5 sighs of aging to visibly transform skin to smoother, firmer, brighter, even, flawless.5 proven results :\n\n45% more even skin tone\n72% saw more youthful skin\n75% reduction inf ine lines and wrinkles\n79% saw fewer imperfections\n90% saw smoother skin\n\nFinish : LuminousCoverage : MediumSkin Type : All skin types",
+      "rating": 4.3,
+      "subcategory": "liquid",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2016-10-01T18:31:43.856Z",
+      "updatedAt": "2017-12-23T21:08:13.827Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/330.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/330/original/data?1514063293",
+      "colors": [
+        {
+          "hex_value": "#DFBDA2",
+          "colour_name": "Classic Ivory "
+        },
+        {
+          "hex_value": "#C38961",
+          "colour_name": "Honey Beige "
+        },
+        {
+          "hex_value": "#E3C7AA",
+          "colour_name": "Light Ivory "
+        },
+        {
+          "hex_value": "#E5C5A3",
+          "colour_name": "Soft Ivory "
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris True Match Lumi Healthy Luminous Foundation",
+      "price": 20.99,
+      "discount": 0,
+      "finalPrice": 20.99,
+      "stock": 25,
+      "description": "Finally, makeup that creates skin so healthy - it's luminous.True Match Lumi Healthy Luminous Makeup combines 3 powerful ingredients that work to improve your complexion the more you wear them. 40% pure water for all-day hydration;Antioxidants and Vitamins C and E for improved clarity and skin tone and;Liquid Light Technology for an instant, luminous glowIsn't it time your met your match?Additional Features: SPF 20Lightweight, buildable coverage that lasts up to 8 hoursFor all skin typesSafe for sensitive skinNon-Comedogenic. Dermatologist tested. Allergy tested. ",
+      "rating": 5,
+      "subcategory": "liquid",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2016-10-01T18:31:39.021Z",
+      "updatedAt": "2017-12-23T21:08:21.316Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/326.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/326/original/data?1514063301",
+      "colors": [
+        {
+          "hex_value": "#f6d6bc",
+          "colour_name": "Porcelain/ Light Ivory "
+        },
+        {
+          "hex_value": "#f0d1b2",
+          "colour_name": "Nude Beige "
+        },
+        {
+          "hex_value": "#cfa37d",
+          "colour_name": "Natural Beige "
+        },
+        {
+          "hex_value": "#d4ad89",
+          "colour_name": "Soft Ivory/ Classic Ivory "
+        },
+        {
+          "hex_value": "#e5bd99",
+          "colour_name": "Natural Buff "
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Infallible Pro-Matte Foundation",
+      "price": 19.99,
+      "discount": 0,
+      "finalPrice": 19.99,
+      "stock": 25,
+      "description": "Longwear foundation without the compromise. Never masky, never cakey, never dull – Infallible Pro-Matte™ is L’Oréal’s next generation of longwearing makeup.The micro-sponge technology absorbs excess oil and shine to create a dimensional matte finish without the need for a heavy or caked-on look. Use a sponge to buff it out for a sheer and natural look or apply in layers for more complete coverage. ",
+      "rating": 4.3,
+      "subcategory": "liquid",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2016-10-01T18:31:37.761Z",
+      "updatedAt": "2017-12-23T21:08:21.089Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/325.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/325/original/data?1514063301",
+      "colors": [
+        {
+          "hex_value": "#efcba7",
+          "colour_name": "Classic Ivory "
+        },
+        {
+          "hex_value": "#e5ad8c",
+          "colour_name": "Shell Beige "
+        },
+        {
+          "hex_value": "#e7b381",
+          "colour_name": "Natural Beige "
+        },
+        {
+          "hex_value": "#eeb57e",
+          "colour_name": "Golden Beige  "
+        },
+        {
+          "hex_value": "#e2ab82",
+          "colour_name": "Natural Buff  "
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "brand": "maybelline",
+      "name": "Maybelline Fit Me Foundation with SPF",
+      "price": 10.99,
+      "discount": 0,
+      "finalPrice": 10.99,
+      "stock": 25,
+      "description": "It’s face makeup that fits you!Features: No oils, no waxes, no nonsenseNatural, Light to medium coverage that leaves skin the way it was meant to be. Fresh, breathing, flawless.Exclusive transluscent base and lightweight pigments allow skin’s natural highs and lows to show through.New shades formulated specifically for women of color contain \nrevolutionary 5-D pigment technology to balance your skin’s authentic \ntones and highlights.SPF 18",
+      "rating": 3.8,
+      "subcategory": "liquid",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2016-10-01T18:31:25.764Z",
+      "updatedAt": "2017-12-23T21:08:20.342Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/317.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/317/original/open-uri20171223-4-13jpajg?1514063300",
+      "colors": [
+        {
+          "hex_value": "#F7C2A5",
+          "colour_name": "Ivory (115) "
+        },
+        {
+          "hex_value": "#EFC1A0",
+          "colour_name": "Classic Ivory (120) "
+        },
+        {
+          "hex_value": "#E6B18F",
+          "colour_name": "Nude Beige (125) "
+        },
+        {
+          "hex_value": "#CE996F",
+          "colour_name": "Natural Beige (220) "
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "brand": "maybelline",
+      "name": "Maybelline Eyestudio Color Tattoo Concentrated Crayon",
+      "price": 10.99,
+      "discount": 25,
+      "finalPrice": 8.24,
+      "stock": 25,
+      "description": "Maybelline Eyestudio Color Tattoo Concentrated Crayons give you high-intensity color that looks vibrant all-day long.Features:Smooth, soft creamy finishPlayful intense colorsAll day tattoo tenacity. Playful color intensity. In an easy glide on crayon.",
+      "rating": 3,
+      "subcategory": "pencil",
+      "category": "eyeshadow",
+      "tags": [],
+      "createdAt": "2016-10-01T18:30:58.610Z",
+      "updatedAt": "2017-12-23T21:08:18.441Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/307.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/307/original/open-uri20171223-4-5xfc8v?1514063298",
+      "colors": [
+        {
+          "hex_value": "#515552",
+          "colour_name": "Audacious Asphalt "
+        },
+        {
+          "hex_value": "#D8BFAC",
+          "colour_name": "Barely Beige "
+        },
+        {
+          "hex_value": "#B89A89",
+          "colour_name": "Bronze Truffle "
+        },
+        {
+          "hex_value": "#706A70",
+          "colour_name": "Charcoal Chrome "
+        },
+        {
+          "hex_value": "#5C3B27",
+          "colour_name": "Creamy Chocolate "
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "brand": "maybelline",
+      "name": "Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow ",
+      "price": 8.99,
+      "discount": 0,
+      "finalPrice": 8.99,
+      "stock": 25,
+      "description": "Dare to wear 24HR shadow!Maybelline's Color Tattoo Cream Gel \nShadow uses ink technology for their most intense, long-lasting shimmery metallic shades﻿. The cream formula glides on without creasing and keeps \ncolour vibrant.Ophthalmologist-tested. Safe for sensitive eyes and contact lens wearers.\n                    \n                    \n                    \n                        \n                        Shade Range: For best results: With \nfingertips, sweep all over eye from inner corner and work outwards. For\n added drama, darken as desired.      ",
+      "rating": 4,
+      "subcategory": "cream",
+      "category": "eyeshadow",
+      "tags": [],
+      "createdAt": "2016-10-01T18:30:01.223Z",
+      "updatedAt": "2017-12-23T20:51:33.487Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/273.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/273/original/open-uri20171223-4-ql025m?1514062293",
+      "colors": [
+        {
+          "hex_value": "#fdd3d2",
+          "colour_name": "Inked in Pink (55) "
+        },
+        {
+          "hex_value": "#c5c7c8",
+          "colour_name": "Silver Strike (60) "
+        },
+        {
+          "hex_value": "#f2caad",
+          "colour_name": "Barely Branded (70) "
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Infallible Silkissime Eyeliner",
+      "price": 11.99,
+      "discount": 0,
+      "finalPrice": 11.99,
+      "stock": 25,
+      "description": "L'Oréal Paris introduces Silkissime™ by \nInfallible® Eyeliner. The formula glides on like silk for a soft and \nluxurious line with up to 16H of intensity.Features:\n\nRich, silky formulaSmudge-resistant, up to 16H wearOphthalmologist testedSuitable for sensitive eyes and contact lens wearers\n                ",
+      "rating": 5,
+      "subcategory": "pencil",
+      "category": "eyeliner",
+      "tags": [],
+      "createdAt": "2016-10-01T18:29:13.117Z",
+      "updatedAt": "2017-12-23T20:51:33.338Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/242.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/242/original/data?1514062293",
+      "colors": [
+        {
+          "hex_value": "#000000",
+          "colour_name": "Black "
+        },
+        {
+          "hex_value": "#3C393A",
+          "colour_name": "Charcoal "
+        },
+        {
+          "hex_value": "#2A61AC",
+          "colour_name": "Cobalt Blue "
+        },
+        {
+          "hex_value": "#D99A85",
+          "colour_name": "Highlighter "
+        },
+        {
+          "hex_value": "#242A5F",
+          "colour_name": "Plum "
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Extra-Intense Liquid Pencil Eyeliner",
+      "price": 10.99,
+      "discount": 10,
+      "finalPrice": 9.89,
+      "stock": 25,
+      "description": "Now get the intense look and luxurious feel of a liquid liner with the easy application and precision of a pencil.  Extra-Intense Liquid Pencil Eyeliner glides on smoothly and evenly for beautiful definition in a single stroke.  The smudge-resistant formula provides 16 hours of non-stop wear. ",
+      "rating": 4.3,
+      "subcategory": "pencil",
+      "category": "eyeliner",
+      "tags": [],
+      "createdAt": "2016-10-01T18:29:09.067Z",
+      "updatedAt": "2017-12-23T20:51:32.749Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/240.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/240/original/data?1514062292",
+      "colors": [
+        {
+          "hex_value": "#000009",
+          "colour_name": "Carbon Black "
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "brand": "maybelline",
+      "name": "Maybelline Unstoppable Eyeliner",
+      "price": 8.99,
+      "discount": 0,
+      "finalPrice": 8.99,
+      "stock": 25,
+      "description": "Unstoppable Eyeliner allows ultra-smooth application for defined lines and eyes.\nIt is a self-sharpening mechanical pencil, and will hold your look in place all day long.\nWaterproof.\nOphthalmologist tested, contact lens safe for sensitive eyes.\n",
+      "rating": 4.3,
+      "subcategory": "pencil",
+      "category": "eyeliner",
+      "tags": [],
+      "createdAt": "2016-10-01T18:28:57.194Z",
+      "updatedAt": "2017-12-23T20:51:30.858Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/230.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/230/original/open-uri20171223-4-1noqhmg?1514062290",
+      "colors": [
+        {
+          "hex_value": "#736364",
+          "colour_name": "Onyx "
+        },
+        {
+          "hex_value": "#797B7D",
+          "colour_name": "Pewter "
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "brand": "maybelline",
+      "name": "Maybelline Color Show Kohl Liner",
+      "price": 5.99,
+      "discount": 0,
+      "finalPrice": 5.99,
+      "stock": 25,
+      "description": "Maybelline Color Show Kohl Liner is the hottest new way to create statement eyes!The brightest colors. The easiest glide. Creamy, rich color has never \nbeen this precise!",
+      "rating": 4,
+      "subcategory": "pencil",
+      "category": "eyeliner",
+      "tags": [],
+      "createdAt": "2016-10-01T18:28:51.002Z",
+      "updatedAt": "2017-12-23T20:51:29.742Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/225.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/225/original/open-uri20171223-4-77bvjo?1514062289",
+      "colors": [
+        {
+          "hex_value": "#2e4064",
+          "colour_name": "Beauty Blue "
+        },
+        {
+          "hex_value": "#56403a",
+          "colour_name": "Chocolate Chip "
+        },
+        {
+          "hex_value": "#008687",
+          "colour_name": "Edgy Emerald "
+        },
+        {
+          "hex_value": "#854f58",
+          "colour_name": "Marvelous Maroon "
+        },
+        {
+          "hex_value": "#837163",
+          "colour_name": "Sparkle Grey "
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "brand": "zorah",
+      "name": "Zorah Liquid Liner",
+      "price": 24,
+      "discount": 0,
+      "finalPrice": 24,
+      "stock": 25,
+      "description": "Zorah Liquid Liner gives you 12 hours of long-lasting intense color, is transfer-free (leaves no trace on crease above the eyelid) and has Pure Light Capture® minerals that deliver color and radiance. Silky lines and refreshingly light, Pure Argan eyeliner leaves a weightless feel on the eyelids.What look do you go for: the natural bronzed babe, tropical brights, or classic beauty? Try all three with this get the look with natural makeup piece found on our blog, The Well! Directions: Lightly trace the lash line. Repeat with a second layer to intensify. Make small dots from the outside working inward. Wait 3 seconds before opening eye so as to avoid streaking. Repeat line if necessary.Ingredients: Aqua, Hydrolyzed Corn Starch, Glyceryl Stearate Citrate, Argania Spinosa Kernel Oil*, Cucurbita Pepo (Pumpkin) Seed Oil*, Glycerin,  Silica, Copernicia Cerifera (Carnauba) Wax*, Hectorite, Sodium Phytate, Sodium Citrate, Benzyl Alcohol, Salicylic Acid, Sorbic Acid, Dehydroacetic Acid. [+/-(peut contenir/may contain) Iron Oxides,Mica, Ultramarines, Bismuth Oxychloride.]Tested dermatologically and ophthalmologically.Certified by Ecocert Greenlife: 98% of the total ingredients are from \nnatural origin, 5% of total ingredients are from organic farming",
+      "rating": 3.3,
+      "subcategory": "liquid",
+      "category": "eyeliner",
+      "tags": [
+        "Natural",
+        "Organic",
+        "Vegan",
+        "Gluten Free",
+        "Canadian"
+      ],
+      "createdAt": "2016-10-01T18:28:07.638Z",
+      "updatedAt": "2017-12-23T20:51:18.506Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/191.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/191/original/data?1514062278",
+      "colors": [
+        {
+          "hex_value": "#000000",
+          "colour_name": "Black "
+        },
+        {
+          "hex_value": "#74482f",
+          "colour_name": "Brown "
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "brand": "maybelline",
+      "name": "Maybelline Line Stiletto Ultimate Precision Liquid Eyeliner",
+      "price": 9.99,
+      "discount": 0,
+      "finalPrice": 9.99,
+      "stock": 25,
+      "description": "Easily Creates Slender Lines\n\n    Rich, Even Color\n    All-Day Wear\n    Smooth Glide Felt Tip\n    Flexible tip guides on smoothly for the most precise control.\n    All-day wear up to 8 hours\n",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "eyeliner",
+      "tags": [],
+      "createdAt": "2016-10-01T18:27:50.155Z",
+      "updatedAt": "2017-12-23T20:51:16.164Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/177.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/177/original/open-uri20171223-4-p0eowt?1514062276",
+      "colors": [
+        {
+          "hex_value": "#000000",
+          "colour_name": "Blackest Black "
+        },
+        {
+          "hex_value": "#4E2F2F",
+          "colour_name": "Brown Black "
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Colour Riche Le Matte & La Lacque Lip Colour",
+      "price": 11.49,
+      "discount": 0,
+      "finalPrice": 11.49,
+      "stock": 25,
+      "description": "Introducing Colour Riche Le Matte & La Lacque, the newest format in lip colour. velvety matte or irresistibly glossy pigment-rich colour, perfectly precise. Use it anywhere, anytime – it’s the newest makeup designer must-have!Features:The sleek, sophisticated pen offers highly pigmented colour Glides on effortlessly in one precise stroke Available in 2 iconic finishes, creamy matte & smooth lacquerEnriched with argan oil for deep hydration and soft feel & vitamin antioxidant for protection",
+      "rating": 4,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2016-10-01T18:25:43.991Z",
+      "updatedAt": "2017-12-23T20:50:58.780Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/106.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/106/original/open-uri20171223-4-1252cli?1514062258",
+      "colors": [
+        {
+          "hex_value": "#FC6E7F",
+          "colour_name": "Game, Set & Matte "
+        },
+        {
+          "hex_value": "#C14E5C",
+          "colour_name": "Lacque-y Charm "
+        },
+        {
+          "hex_value": "#B0233E",
+          "colour_name": "Lacque-y You  "
+        },
+        {
+          "hex_value": "#B41428",
+          "colour_name": "Lacquerized "
+        },
+        {
+          "hex_value": "#C81E2F",
+          "colour_name": "Mad for Matte "
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "brand": "maybelline",
+      "name": "Maybelline Color Sensational Vivid Matte Liquid Lip Colour",
+      "price": 12.99,
+      "discount": 0,
+      "finalPrice": 12.99,
+      "stock": 25,
+      "description": "Bold, vivid color glides easily onto lips for a velvety matte finish with Maybelline Color Sensational Vivid Matte Liquid Lip Colour. \nFormula is comfortable and creamy with a smooth feel upon application. \nWith full color coverage, the result is a rich, intense lip look in a \nrange of colors from Nude Flush to Electric Pink to Vivid Violet.Features: Lip color glides on smooth to a matte finishInfused with pure pigments for high-impact colorCreamy liquid base for a soft, cushiony feel",
+      "rating": 4,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2016-10-01T18:25:33.281Z",
+      "updatedAt": "2017-12-23T20:50:59.331Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/97.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/097/original/open-uri20171223-4-128aihq?1514062259",
+      "colors": [
+        {
+          "hex_value": "#AC7773",
+          "colour_name": "Nude Thrill "
+        },
+        {
+          "hex_value": "#BD7A80",
+          "colour_name": "Nude Flush "
+        },
+        {
+          "hex_value": "#D65F84",
+          "colour_name": "Pink Charge "
+        },
+        {
+          "hex_value": "#D73D8C",
+          "colour_name": "Electric Pink "
+        },
+        {
+          "hex_value": "#B12156",
+          "colour_name": "Fuchsia Ecstasy "
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Colour Riche Collection Exclusive Pure Reds",
+      "price": 25,
+      "discount": 35,
+      "finalPrice": 16.25,
+      "stock": 25,
+      "description": "Inspired by L’Oréal Paris muses, Colour Riche introduces six custom-made, enriching matte red shades tailored to enhance a variety of complexions. Play on a coordinated look by pairing with red nails for an absolute statement.Features:A matte that reveals red's colour intensitySoft intense velvet formulationFormulated with velvet spheres, pure pigments, jojoba oil",
+      "rating": 5,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2016-10-01T18:25:25.419Z",
+      "updatedAt": "2017-12-23T20:50:59.141Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/91.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/091/original/data?1514062259",
+      "colors": [
+        {
+          "hex_value": "#AB0C19",
+          "colour_name": "Blake's Red  "
+        },
+        {
+          "hex_value": "#8E1305",
+          "colour_name": "Eva's Red "
+        },
+        {
+          "hex_value": "#C5004B",
+          "colour_name": "Freida's Red "
+        },
+        {
+          "hex_value": "#D82A37",
+          "colour_name": "Julianne's Red "
+        },
+        {
+          "hex_value": "#C90E32",
+          "colour_name": "Liya's Red  "
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "brand": "maybelline",
+      "name": "Maybelline Color Sensational Rebel Bloom Lipcolour ",
+      "price": 9.99,
+      "discount": 0,
+      "finalPrice": 9.99,
+      "stock": 25,
+      "description": "Maybelline Color Sensational® Rebel Bloom lipstick offers vivacious pastels in a super-saturated lipcolour. Enjoy the kicky bouquet of lip colors in \npinks, reds and mauves.  Features:Super-saturated pigments take fresh picked pastels to a new bright\nNever dull, washed out or shy\nHoney nectar adds a sumptuous feel\n\n\t\tApplication: Apply lipcolor starting in the center of your upper lip. Work\n from the center to the outer edges of your lip, following the contours \nof your mouth. Then glide across the entire bottom lip.\n\n\t\t\n\t\n\n                    ",
+      "rating": 3,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2016-10-01T18:25:20.981Z",
+      "updatedAt": "2017-12-23T20:50:59.663Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/89.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/089/original/open-uri20171223-4-pkrmxd?1514062259",
+      "colors": [
+        {
+          "hex_value": "#db967f",
+          "colour_name": "Barely Bloomed "
+        },
+        {
+          "hex_value": "#d37d79",
+          "colour_name": "Blushing Bud "
+        },
+        {
+          "hex_value": "#f05b4a",
+          "colour_name": "Coral Burst "
+        },
+        {
+          "hex_value": "#cd86b0",
+          "colour_name": "Lilac Flush "
+        },
+        {
+          "hex_value": "#ff8f9d",
+          "colour_name": "Petal Pink "
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "brand": "l'oreal",
+      "name": "L'Oreal Infallible Lipstick ",
+      "price": 13.99,
+      "discount": 0,
+      "finalPrice": 13.99,
+      "stock": 25,
+      "description": "L'Oreal Infallible Lipstick is a longwear 2-step lip colour with hyaluronic gel for 24HR triple action.The hyaluron-infused longwear formula provides saturated, vibrant colour for lips that appear smooth and replenished.Features:All day smoothness for colour that never driesAll day hydration for endless comfortAll day resistance for colour that never fades ",
+      "rating": 5,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2016-10-01T18:25:06.524Z",
+      "updatedAt": "2017-12-23T20:50:58.113Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/78.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/078/original/data?1514062258",
+      "colors": [
+        {
+          "hex_value": "#692628",
+          "colour_name": "Cherry Noir 217 "
+        },
+        {
+          "hex_value": "#aa2b37",
+          "colour_name": "Continual Crimson 213 "
+        },
+        {
+          "hex_value": "#d9695a",
+          "colour_name": "Everlasting Caramel 201 "
+        },
+        {
+          "hex_value": "#dc6d81",
+          "colour_name": "Flamboyant Flamingo 113 "
+        },
+        {
+          "hex_value": "#b75b4e",
+          "colour_name": "Heaven to Henna 205 "
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Colour Riche Collection Exclusive Lip Colour ",
+      "price": 10.99,
+      "discount": 0,
+      "finalPrice": 10.99,
+      "stock": 25,
+      "description": "L'Oreal Paris Collection Exclusive by Colour Riche® introduces a permanent offer to \nthe L'Oreal Paris portfolio. This collection includes six signature nude shades by L'Oreal's six \ndazzling spokeswomen. The shades are custom-made to match various skin tones and \nhaircolour.",
+      "rating": 4.7,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2016-10-01T18:24:59.507Z",
+      "updatedAt": "2017-12-23T20:31:52.834Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/74.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/074/original/data?1514061112",
+      "colors": [
+        {
+          "hex_value": "#DEA1A6",
+          "colour_name": "Doutzen's Nude "
+        },
+        {
+          "hex_value": "#B16B61",
+          "colour_name": "Eva's Nude "
+        },
+        {
+          "hex_value": "#83605E",
+          "colour_name": "Freida's Nude "
+        },
+        {
+          "hex_value": "#BD7069",
+          "colour_name": "JLo's Nude "
+        },
+        {
+          "hex_value": "#BA6C6C",
+          "colour_name": "Julianne's Nude "
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "brand": "maybelline",
+      "name": "Maybelline Color Sensational The Buffs Lipcolour",
+      "price": 9.99,
+      "discount": 20,
+      "finalPrice": 7.99,
+      "stock": 25,
+      "description": "Raw. Real. Pigments explode with sensuous impact…sensational! Maybelline Color Sensational The Buffs Lipcolour have true nude lip color pigments for honest flesh tone color. This range has it all, from blushing beige, to bronze, to espresso.\n\t\tFor Best Results: Apply your nude lip color lipstick by starting in the center \nof your upper lip. Work from the center to the outer edges of your lip, \nfollowing the contours of your mouth. Then glide across the entire \nbottom lipShade Range: \n\t\n\n                    ",
+      "rating": 4.8,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2016-10-01T18:24:56.389Z",
+      "updatedAt": "2017-12-23T20:51:18.174Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/73.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/073/original/open-uri20171223-4-92movw?1514062278",
+      "colors": [
+        {
+          "hex_value": "#E3A28C",
+          "colour_name": "Bare All "
+        },
+        {
+          "hex_value": "#EB907D",
+          "colour_name": "Blushing Beige "
+        },
+        {
+          "hex_value": "#DD8A78",
+          "colour_name": "Nude Lust "
+        },
+        {
+          "hex_value": "#A95D50",
+          "colour_name": "Maple Kiss "
+        },
+        {
+          "hex_value": "#E2937F",
+          "colour_name": "Truffle Tease  "
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "brand": "maybelline",
+      "name": "Maybelline Color Sensational Vivids Lipcolour",
+      "price": 9.99,
+      "discount": 0,
+      "finalPrice": 9.99,
+      "stock": 25,
+      "description": "With Maybelline Colour Sensational Vivids Lipcolour bright goes gorgeous, never garish!Get brighter color from Maybelline's exclusive vivid pigments.﻿ Plus get creamier feel from nourishing honey nectar.﻿ Features: Be bright and gorgeousExclusive Vivid colors are brighterHoney nectar formula nourishes lips﻿For Best Results: Apply lipcolor starting in the center of your upper lip. Work from the center to the outer edges of your lip, following the contours of your mouth. Then glide across the entire bottom lip.﻿Shade Range: ",
+      "rating": 5,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2016-10-01T18:24:55.093Z",
+      "updatedAt": "2017-12-23T20:50:55.568Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/72.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/072/original/open-uri20171223-4-jaz2h8?1514062255",
+      "colors": [
+        {
+          "hex_value": "#f9005b",
+          "colour_name": "Vivid Rose (825) "
+        },
+        {
+          "hex_value": "#ff2e8c",
+          "colour_name": "Fuchsia Flash (865) "
+        },
+        {
+          "hex_value": "#ff4a62",
+          "colour_name": "Shocking Coral (870) "
+        },
+        {
+          "hex_value": "#ff3b00",
+          "colour_name": "Electric Orange (880) "
+        },
+        {
+          "hex_value": "#ff6ab6",
+          "colour_name": "Pink Pop (880) "
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "brand": "maybelline",
+      "name": "Maybelline Color Sensational Creamy Mattes Lipcolour ",
+      "price": 9.99,
+      "discount": 0,
+      "finalPrice": 9.99,
+      "stock": 25,
+      "description": "Maybelline Creamy Mattes by Color Sensational deliver a burst of bold lip color and a surge of creamy texture in great make-a-statement shades, for mattes your lips will love to wear!Features: Lips slip into this creamy matteMattifying cream pure pigments and three precious oilsMake-a-statement shades",
+      "rating": 5,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2016-10-01T18:24:51.748Z",
+      "updatedAt": "2017-12-23T20:50:56.946Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/69.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/069/original/open-uri20171223-4-uyvfh1?1514062256",
+      "colors": [
+        {
+          "hex_value": "#ff1303",
+          "colour_name": "Craving Coral "
+        },
+        {
+          "hex_value": "#e87e74",
+          "colour_name": "Daringly Nude "
+        },
+        {
+          "hex_value": "#ff2f99",
+          "colour_name": "Faint For Fuchsia "
+        },
+        {
+          "hex_value": "#db5c83",
+          "colour_name": "Lust for Blush "
+        },
+        {
+          "hex_value": "#ec0064",
+          "colour_name": "Mesmerizing Magenta "
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Colour Riche Lipstick",
+      "price": 10.99,
+      "discount": 0,
+      "finalPrice": 10.99,
+      "stock": 25,
+      "description": "Indulge in richness beyond compare with L'Oreal's most luxuriously rich color and intensely rich hydration. Colour Riche®\n Lipcolour is richer, creamier and more moisturizing than ever before. \nIn addition to nourishing ingredients like Omega 3 and Vitamin E, the \nformula is enriched with Argan Oil to condition and soften lips. Your \nlips are kept soft, smooth, and ultra-hydrated. With a spectrum of \ngorgeous shades from bold to nearly nude, Colour Riche® Lipcolour offers a shade that’s perfect for every look and any occasion.\n\t\t",
+      "rating": 4.6,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2016-10-01T18:24:50.904Z",
+      "updatedAt": "2017-12-23T20:50:56.751Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/68.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/068/original/data?1514062256",
+      "colors": [
+        {
+          "hex_value": "#A33750",
+          "colour_name": "Blushing Berry "
+        },
+        {
+          "hex_value": "#FF244B",
+          "colour_name": "British Red "
+        },
+        {
+          "hex_value": "#B5353A",
+          "colour_name": "Cinnamon Toast "
+        },
+        {
+          "hex_value": "#B3857D",
+          "colour_name": "Fairest Nude "
+        },
+        {
+          "hex_value": "#C37685",
+          "colour_name": "Mica "
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "brand": "maybelline",
+      "name": "Maybelline Color Sensational Lipcolour",
+      "price": 9.99,
+      "discount": 30,
+      "finalPrice": 6.99,
+      "stock": 25,
+      "description": "Maybelline Colour Sensational Lipcolour will make you fall in love with color, all over again! Features: \n\nCrisper color from pure pigments \nCreamier feel from nourishing honey nectar \nLipcolor so rich, so stunning… it’s sensational Incredible colour range, from pinks, plums, reds and bronze\n\n ",
+      "rating": 4.2,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2016-10-01T18:24:44.446Z",
+      "updatedAt": "2017-12-23T20:50:57.314Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/65.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/065/original/open-uri20171223-4-f2n6t8?1514062257",
+      "colors": [
+        {
+          "hex_value": "#E70C2F",
+          "colour_name": "Are you Red-dy "
+        },
+        {
+          "hex_value": "#DF8A82",
+          "colour_name": "Born With It "
+        },
+        {
+          "hex_value": "#F15B50",
+          "colour_name": "Coral Crush "
+        },
+        {
+          "hex_value": "#8F332C",
+          "colour_name": "Crazy for Coffee "
+        },
+        {
+          "hex_value": "#CA6E6B",
+          "colour_name": "Warm Me Up "
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "brand": "maybelline",
+      "name": "Maybelline Volum'Express Falsies Big Eyes Mascara",
+      "price": 12.99,
+      "discount": 0,
+      "finalPrice": 12.99,
+      "stock": 25,
+      "description": "2 brushes. 2x more impact!Now get bigger eyes with 360 degrees of false \nlash glam volume! Upper lashes get over-the-top glam with the upper \nbrush, while the lower brush grabs every tiny lower lash for a full \ncircle effect.For best results: Apply the Upper Brush against the top lid lashes and sweep from\n root to tip until a clean, voluminous look is achieved, followed by the\n lower lash line using the lower Micro Brush. Do not let dry between \ncoats. Removes easily with soap and water or with Maybelline® Clean \nExpress!™ Classic Eye Makeup Remover.\n",
+      "rating": 4.5,
+      "subcategory": "liquid",
+      "category": "mascara",
+      "tags": [],
+      "createdAt": "2016-10-01T18:11:34.910Z",
+      "updatedAt": "2017-12-23T20:50:53.492Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/42.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/042/original/open-uri20171223-4-b55ku9?1514062253",
+      "colors": [
+        {
+          "hex_value": "#000000",
+          "colour_name": "Blackest Black "
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Voluminous Butterfly Mascara ",
+      "price": 13.49,
+      "discount": 0,
+      "finalPrice": 13.49,
+      "stock": 25,
+      "description": "Stretch and extend your lashes like wings!  Introducing Voluminous \nButterfly Mascara, one of L'Oreal's most-exciting mascara innovations, yet. \nIts revolutionary Butterfly Brush™ with asymmetrical lash \nline shape extends and lifts outer corner lashes to give you a \nwinged-out effect, instantly volumizing lashes at the roots and \nstretching lashes outward. The unique Cocoon Fibers™ instantly wrap lashes in a soft, delicate veil to create silky, spectacular lashes that flutter.",
+      "rating": 4,
+      "subcategory": "liquid",
+      "category": "mascara",
+      "tags": [],
+      "createdAt": "2016-10-01T18:11:33.681Z",
+      "updatedAt": "2017-12-23T20:50:53.374Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/41.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/041/original/data?1514062253",
+      "colors": [
+        {
+          "hex_value": "#000000",
+          "colour_name": "Blackest Black "
+        },
+        {
+          "hex_value": "#231F20",
+          "colour_name": "Black "
+        },
+        {
+          "hex_value": "#4D2C00",
+          "colour_name": "Black Brown "
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "brand": "maybelline",
+      "name": "Maybelline Define-A-Lash Lengthening & Defining Mascara",
+      "price": 9.99,
+      "discount": 0,
+      "finalPrice": 9.99,
+      "stock": 25,
+      "description": "Define-A-Lash Lengthening & Defining Mascara is a zero-clump mascara that creates stunning length and clean definition. The flexible brush is shaped to the lash to elongate and define lashes, one by one. The built-in wiper contours brush to remove excess formula, ensuring clean deposit on lashes. There is no smudging, smearing or flaking, and the smooth, lightweight formula feels comfortable on lashes.Allergy tested, ophthalmologist tested and contact lens safe.\n\n",
+      "rating": 4.4,
+      "subcategory": "liquid",
+      "category": "mascara",
+      "tags": [],
+      "createdAt": "2016-10-01T18:11:22.926Z",
+      "updatedAt": "2017-12-23T20:31:52.284Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/32.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/032/original/data?1514061112",
+      "colors": [
+        {
+          "hex_value": "#000000",
+          "colour_name": "Very Black "
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "brand": "l'oreal",
+      "name": "L'Oreal Paris Extra Volume Collagen Mascara",
+      "price": 13.99,
+      "discount": 0,
+      "finalPrice": 13.99,
+      "stock": 25,
+      "description": "L'Oreal's biggest volume builder! Introducing the latest innovation in mascara technology--Extra Volume Collagen Mascara. It's made with hydra-collagen and enhances the thickness of your lashes for up to 12x more impact without any clumps. Our patented brush is 50% bigger so it builds that incredible volume fast. Your lashes will build extra body and extra impact in just one sweep.",
+      "rating": 4.8,
+      "subcategory": "liquid",
+      "category": "mascara",
+      "tags": [],
+      "createdAt": "2016-10-01T18:11:15.531Z",
+      "updatedAt": "2017-12-23T20:31:51.184Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/25.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/025/original/data?1514061111",
+      "colors": [
+        {
+          "hex_value": "#000000",
+          "colour_name": "Blackest Black "
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "brand": "maybelline",
+      "name": "Maybelline Volum' Express Colossal Mascara",
+      "price": 9.99,
+      "discount": 0,
+      "finalPrice": 9.99,
+      "stock": 25,
+      "description": "Why You'll Love It\n\nCreates 9X the volume, instantly.\nPatented MegaBrush + Collagen Formula plump lashes one by one \nDramatic Volume with no clumps \nWashable \n",
+      "rating": 4.5,
+      "subcategory": "liquid",
+      "category": "mascara",
+      "tags": [],
+      "createdAt": "2016-10-01T18:11:01.516Z",
+      "updatedAt": "2017-12-23T20:31:48.510Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/14.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/014/original/data?1514061108",
+      "colors": [
+        {
+          "hex_value": "#0D090A",
+          "colour_name": "Classic Black "
+        },
+        {
+          "hex_value": "#000000",
+          "colour_name": "Glam Black "
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "brand": "fenty",
+      "name": "MATTEMOISELLE - Plush Matte Lipstick",
+      "price": 18,
+      "discount": 0,
+      "finalPrice": 18,
+      "stock": 25,
+      "description": "An ultra slim lipstick with a longwearing, petal-soft matte finish, created in a rainbow of 14 weightless, color-intense shades each designed to flatter all skin tones.",
+      "rating": 0,
+      "subcategory": "lipstick",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2017-12-23T23:53:46.839Z",
+      "updatedAt": "2017-12-25T23:53:17.595Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/850.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/850/original/open-uri20171224-4-w3yj1s?1514073895",
+      "colors": [
+        {
+          "hex_value": "#B6232B",
+          "colour_name": "Ma'Damn - Royal Red"
+        },
+        {
+          "hex_value": "#DC386C",
+          "colour_name": "Candy Venom - Electric Pink"
+        },
+        {
+          "hex_value": "#E08F71",
+          "colour_name": "Up 2 No Good - Nude Peach"
+        },
+        {
+          "hex_value": "#C95E3C",
+          "colour_name": "Freckle Fiesta - Spiced Terracotta"
+        },
+        {
+          "hex_value": "#6D271A",
+          "colour_name": "PMS - Moody Brown"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "brand": "fenty",
+      "name": "ECLIPSE - 2-in-1 Glitter Release Eyeliner",
+      "price": 20,
+      "discount": 50,
+      "finalPrice": 10,
+      "stock": 25,
+      "description": "A limited-edition liquid eyeliner with a transforming metallic-to-glitter formula that lets you choose your own finish.",
+      "rating": 0,
+      "subcategory": "liquid",
+      "category": "eyeliner",
+      "tags": [],
+      "createdAt": "2017-12-23T23:43:39.529Z",
+      "updatedAt": "2017-12-25T23:58:45.446Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/849.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/849/original/open-uri20171223-4-1sk5zli?1514072784",
+      "colors": [
+        {
+          "hex_value": "#C8896E",
+          "colour_name": "Later, Crater - Nude Metallic/Nude Gold Glitter"
+        },
+        {
+          "hex_value": "#274A45",
+          "colour_name": "Nepturnt - Green-Black Metallic/Smoky Emerald Glitter"
+        },
+        {
+          "hex_value": "#122835",
+          "colour_name": "Alien Bae - Blue-Black Metallic/Smoky Navy Glitter"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "brand": "fenty",
+      "name": "COSMIC GLOSS - Lip Glitter",
+      "price": 19,
+      "discount": 0,
+      "finalPrice": 19,
+      "stock": 25,
+      "description": "A limited-edition glitter-packed lip gloss that delivers the ultimate triple-threat of creamy color, glitter, and shine.",
+      "rating": 0,
+      "subcategory": "lip_gloss",
+      "category": "lipstick",
+      "tags": [],
+      "createdAt": "2017-12-23T23:43:38.786Z",
+      "updatedAt": "2017-12-25T23:56:53.895Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/848.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/848/original/open-uri20171223-4-gjj2xg?1514072782",
+      "colors": [
+        {
+          "hex_value": "#8E406D",
+          "colour_name": "Gal On The Moon - Holographic Pink Orchid"
+        },
+        {
+          "hex_value": "#FE7C63",
+          "colour_name": "Spacesuit - Glittering Peach"
+        },
+        {
+          "hex_value": "#EB4077",
+          "colour_name": "Plutonic Relationshp - Holographic Hot Pink"
+        },
+        {
+          "hex_value": "#5B1525",
+          "colour_name": "Astro-Naughty - Glittering Garnet"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "brand": "fenty",
+      "name": "MATCH STIX - Matte Skinstick",
+      "price": 25,
+      "discount": 0,
+      "finalPrice": 25,
+      "stock": 25,
+      "description": "A magnetized makeup stick in a longwear, light-as-air matte formula to conceal, correct, contour, and touch up in 20 shades.",
+      "rating": 0,
+      "subcategory": "concealer",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2017-12-23T23:43:36.178Z",
+      "updatedAt": "2017-12-25T23:51:22.527Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/847.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/847/original/open-uri20171224-4-1se9mcb?1514074989",
+      "colors": [
+        {
+          "hex_value": "#C9A074",
+          "colour_name": "Maple - Neutral"
+        },
+        {
+          "hex_value": "#683525",
+          "colour_name": "Espresso - Cool"
+        },
+        {
+          "hex_value": "#D9A877",
+          "colour_name": "Maple - Neutral"
+        },
+        {
+          "hex_value": "#EABC95",
+          "colour_name": "Bamboo - Neutral"
+        },
+        {
+          "hex_value": "#EAB087",
+          "colour_name": "Honey - Warm Peach"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "brand": "fenty",
+      "name": "PRO FILT'R - Soft Matte Longwear Foundation",
+      "price": 34,
+      "discount": 0,
+      "finalPrice": 34,
+      "stock": 25,
+      "description": "A soft matte, longwear foundation with buildable, medium to full coverage, in a boundary-breaking range of 40 shades.",
+      "rating": 0,
+      "subcategory": "liquid",
+      "category": "foundation",
+      "tags": [],
+      "createdAt": "2017-12-23T22:44:31.330Z",
+      "updatedAt": "2017-12-25T23:55:18.683Z",
+      "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/780.json",
+      "image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/780/original/open-uri20171223-4-13jsgyc?1514069071",
+      "colors": [
+        {
+          "hex_value": "#FDE9DE",
+          "colour_name": "100 Neutral"
+        },
+        {
+          "hex_value": "#F0D4BA",
+          "colour_name": "150 Neutral"
+        },
+        {
+          "hex_value": "#EABE9C",
+          "colour_name": "200 Cool"
+        },
+        {
+          "hex_value": "#E5AD7E",
+          "colour_name": "250 Warm Peach"
+        },
+        {
+          "hex_value": "#CC9363",
+          "colour_name": "300 Neutral"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "categories": [
+        "lipstick",
+        "blush",
+        "eyeshadow",
+        "mascara",
+        "lipliner",
+        "eyeliner",
+        "eyebrow",
+        "foundation",
+        "bronzer",
+        "blush"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "name": "l'oreal",
+      "logo": "https://www.aranco.com/wp-content/uploads/2021/06/LOreal-Logo.png"
+    },
+    {
+      "name": "zorah biocosmetiques",
+      "logo": "https://www.jeancoutu.com/globalassets/magasiner/marques/zorah/logo-zorah.png"
+    },
+    {
+      "name": "nyx",
+      "logo": "https://marcas-logos.net/wp-content/uploads/2022/03/NYX-logo.png"
+    },
+    {
+      "name": "penny lane organics",
+      "logo": "https://cdn.shopify.com/s/files/1/1745/7719/files/Logo-with-floral_5979c4ce-d73d-4305-bf51-f08700e0167e.png?v=1631110892"
+    },
+    {
+      "name": "nudus",
+      "logo": "https://www.clubdeocionudos.com/wp-content/uploads/2018/06/logo.png"
+    },
+    {
+      "name": "lotus cosmetics usa",
+      "logo": "https://cdn.shopify.com/s/files/1/0428/8063/0937/files/logo_e3a67a8c-6a4d-48a0-909e-4c06938a9c8b.png?v=1600361152"
+    },
+    {
+      "name": "maybelline",
+      "logo": "https://1000marcas.net/wp-content/uploads/2020/02/logo-Maybelline.png"
+    },
+    {
+      "name": "green people",
+      "logo": "https://cdn.shopify.com/s/files/1/0282/9910/0205/files/anniversary_logo_gif.gif?crop=center&height=428&v=1661416438&width=416"
+    },
+    {
+      "name": "coastal classic creation",
+      "logo": "https://seeklogo.com/images/C/coastal-classic-creations-logo-9F2B60E543-seeklogo.com.png"
+    },
+    {
+      "name": "c'est moi",
+      "logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1476771533/e7pquqcuz7zqq7tcehdk.png"
+    },
+    {
+      "name": "dior",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dior_Logo.svg/2560px-Dior_Logo.svg.png"
+    },
+    {
+      "name": "fenty",
+      "logo": "https://cdn.worldvectorlogo.com/logos/fenty-beauty.svg"
+    }
+  ]
+}

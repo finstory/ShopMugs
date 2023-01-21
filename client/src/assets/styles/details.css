@@ -1,0 +1,611 @@
+.details-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    max-width: 130em;
+    min-height: 60rem;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.card-details {
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 45rem;
+    height: 45rem;
+    margin: 2.5rem 0;
+    /* margin-top: 5.4rem; */
+    background-color: #3c2e4a85;
+    /* background-color: #433c4fe8; */
+    border-radius: 2rem;
+    box-shadow: 0px 0px 6px #00000040;
+}
+
+.card-details-box:nth-child(1) {
+    position: relative;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    flex-basis: 20%;
+    width: 100%;
+
+
+}
+
+.card-details-box:nth-child(1) p {
+    font-size: 2.3rem;
+    letter-spacing: .3rem;
+    line-height: 1.6rem;
+    margin: 0;
+    margin-top: 1.6rem;
+    padding: .8rem;
+    border-radius: 1rem;
+    background-color: #473c5495;
+    background-color: #63576fa3;
+}
+
+.card-details-box:nth-child(1) p:nth-child(2) {
+    font-size: 1.8rem;
+    padding: .5rem;
+    margin: 0;
+    background-color: #39343dc2;
+    background-color: #413a479f;
+    border-radius: 0 0 1rem 1rem;
+}
+
+.card-details-box:nth-child(2) {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 68%;
+    width: 100%;
+
+}
+
+.card-details-box:nth-child(2) .img-wrap,
+.card-details-box:nth-child(2) .img-wrap-cold {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 88%;
+    height: 100%;
+    border-radius: 1rem;
+    background-color: #f7f6f6f8;
+    /* background-image: url("https://res.cloudinary.com/dz9smi3nc/image/upload/o_90/v1667914563/shop-mugs/items/IMAGE_iltip4.png"); */
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center 10px;
+    /* transition: background-image .4s; */
+}
+
+.card-details-box:nth-child(2) .img-wrap-cold {
+    width: 100%;
+    background-color: transparent;
+}
+
+/** Mug characteristics 1*/
+
+.card-details-box:nth-child(2) .info-wrap:nth-child(1) {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 2rem;
+    flex-basis: 14%;
+
+    width: 90%;
+    opacity: .9;
+    margin-top: .5rem;
+
+}
+
+.card-details-box:nth-child(2) .desc-box {
+    display: flex;
+    flex-basis: 28%;
+    height: 4rem;
+    opacity: .9;
+    color: #595264;
+    border-radius: 1rem;
+    background: linear-gradient(90deg, #dddcdd 0%, #cecdd0f5 90%);
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap:nth-child(1) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 20%;
+    height: 100%;
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap:nth-child(1) img {
+    height: 50%;
+    opacity: .9;
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap:nth-child(3) img {
+    height: 10%;
+    opacity: .9;
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap:nth-child(2) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 80%;
+    height: 100%;
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap:nth-child(2) p {
+    line-height: 1.4rem;
+    font-size: 1rem;
+    font-weight: 900;
+    padding: 0 .1rem;
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap-temp {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 3.8rem;
+    margin-top: .1rem;
+    color: #f0f0f0ee;
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap-temp p {
+    line-height: 1.8rem;
+    font-size: 1rem;
+    margin: 0rem;
+    padding: 0;
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap-temp .temp {
+    flex-basis: 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1a1a1bd5;
+    border-radius: 1rem 1rem 0 0;
+
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap-temp .btn-switch {
+    flex-basis: 55%;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap-temp .cold:hover,
+.card-details-box:nth-child(2) .desc-box .wrap-temp .hot:hover {
+    background-color: #4d465de2;
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap-temp .cold {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    flex-basis: 50%;
+    border-radius: 0 0 0 1rem;
+    background-color: #514a59b3;
+}
+
+.card-details-box:nth-child(2) .desc-box .wrap-temp .hot {
+    flex-basis: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    border-radius: 0 0 1rem 0;
+    background-color: #514a59b3;
+}
+
+
+/*$ Mug characteristics 1 */
+
+/** Mug characteristics 2 */
+
+.card-details-box:nth-child(2) .info-wrap:nth-child(2) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+    width: 92%;
+    flex-basis: 48.5%;
+    /* background-color: #5952645c; */
+}
+
+.card-details-box:nth-child(2) .info-wrap:nth-child(2) .info-type {
+    text-align: center;
+    flex-basis: 25%;
+
+}
+
+.card-details-box:nth-child(2) .info-wrap:nth-child(2) .info-type p {
+    display: inline-block;
+    line-height: 1rem;
+    font-size: 1.6rem;
+    letter-spacing: .1rem;
+    margin: 0%;
+    /* margin-left: 1.5rem; */
+    padding: .8rem 1.3rem;
+    border-radius: 1rem;
+    opacity: .8;
+}
+
+
+
+
+
+.card-details-box:nth-child(2) .info-wrap:nth-child(2) .info-edit {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-basis: 35%;
+    width: 100%;
+    font-size: 1.8rem;
+}
+
+.card-details-box:nth-child(2) .info-wrap:nth-child(2) .info-edit-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 33%;
+}
+
+.card-details-box:nth-child(2) .info-wrap:nth-child(2) .info-edit-box:nth-child(1) {
+    justify-content: start;
+}
+
+.card-details-box:nth-child(2) .info-wrap:nth-child(2) .info-edit-box:nth-child(2) {
+    margin-left: .6rem;
+}
+
+.card-details-box:nth-child(2) .info-wrap:nth-child(2) .info-edit-box:nth-child(3) {
+    justify-content: end;
+}
+
+.card-details-box:nth-child(2) .info-wrap:nth-child(2) .info-edit .price {
+    background-color: #63576fa3;
+    border-radius: 1rem;
+    line-height: 2.1rem;
+    padding: .3rem 1rem;
+}
+
+
+.card-details-box:nth-child(2) .info-wrap:nth-child(2) .info-edit .amount {
+    border-radius: 1rem;
+    line-height: 2.1rem;
+    margin-right: 0rem;
+    padding: .3rem 2rem;
+
+    background-color: #63576fa3;
+}
+
+/*$ Mug characteristics 2 */
+
+
+
+
+
+
+
+
+
+/* * 3 section */
+.card-details-box:nth-child(3) {
+    display: flex;
+    justify-content: center;
+    flex-basis: 12%;
+    width: 100%;
+    /* background-color: rgb(69, 62, 76); */
+
+}
+
+.card-details-box:nth-child(3) .btn-gruop {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 84%;
+    height: 100%;
+
+}
+
+.card-details-box:nth-child(3) .btn-box {
+    font-size: 1.8rem;
+    background-color: #63576fa3;
+    padding: 0 1rem;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+
+.card-details-box:nth-child(3) .btn-box:nth-child(1) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+    width: 6rem;
+}
+
+.card-details-box:nth-child(3) .btn-box:nth-child(1) p {
+    font-size: 1.6rem;
+    line-height: 1rem;
+    letter-spacing: 1px;
+    margin: 1rem 0;
+}
+
+.card-details-box:nth-child(3) .btn-box:nth-child(1) img {
+    height: 1.5rem;
+    margin-bottom: 1px;
+}
+
+.card-details-box:nth-child(3) .btn-box:nth-child(2) {
+    /* margin-left: .5rem; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+    background-color: #e7e3ea;
+    background: linear-gradient(90deg, #dddcde 0%, #d2d1d4f5 90%);
+}
+
+.card-details-box:nth-child(3) .btn-box:nth-child(2) p {
+    font-size: 1.6rem;
+    line-height: 1rem;
+    letter-spacing: 1px;
+    margin: 1rem 0;
+    color: #3f3846;
+    color: #595264be;
+    text-shadow: 0px 0px 3px #2e2437a0;
+}
+
+
+.card-details-box:nth-child(3) .btn-box:nth-child(3) {
+    display: flex;
+    padding: 0;
+    width: 7.5rem;
+
+
+}
+
+.card-details-box:nth-child(3) .btn-box:nth-child(3) .wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 50%;
+    height: 100%;
+    box-sizing: content-box;
+    /* background-color: #dddcde; */
+
+}
+
+.card-details-box:nth-child(3) .btn-box:nth-child(3) .wrap:nth-child(1) {
+    border: 2px solid #dddcdead;
+    border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+}
+
+.card-details-box:nth-child(3) .btn-box:nth-child(3) p {
+    font-size: 2.6rem;
+    line-height: .9rem;
+    margin: 1rem 0;
+}
+
+
+/* * buttoms aditionals */
+
+.card-details-box:nth-child(1) .btn-aditional {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 75%;
+    /* background-color: #63487d85; */
+}
+
+.card-details-box:nth-child(1) .favorites {
+    height: 2.6rem;
+    margin-left: 1.5rem;
+    cursor: pointer;
+}
+
+.card-details-box:nth-child(1) .favorites img {
+    height: 100%;
+    opacity: .9;
+
+}
+
+.card-details-box:nth-child(1) .close p {
+    background-color: transparent;
+    font-size: 4rem;
+    line-height: 1rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1.3rem;
+    margin: 0%;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn-back {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: .1rem;
+    gap: .7rem;
+    width: 9rem;
+    height: 3.5rem;
+    margin-bottom: 2rem;
+    transition: background-color .5s;
+    background-color: #3c2e4a85;
+    background-color: #3b2f4285;
+    border-radius: 1rem;
+    cursor: pointer;
+    opacity: .85;
+
+}
+
+.btn-back:hover {
+    transition: background-color .5s;
+    background-color: #4a4454d0;
+}
+
+.btn-back .img-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 20%;
+    height: 100%;
+}
+
+.btn-back img {
+    display: block;
+    height: 29%;
+}
+
+.btn-back p {
+    margin-right: .4rem;
+    font-size: 1.8rem;
+}
+
+.card-btn-favorites-detais {
+    position: absolute;
+    z-index: 3;
+    top: 9rem;
+    margin-right: 19.5rem;
+    width: 3.6rem;
+    height: 3.6rem;
+}
+
+.card-btn-favorites-detais img {
+    /* opacity: .95; */
+    /* image-rendering: pixelated; */
+    width: 100%;
+    display: block;
+    -webkit-transition: .2s -webkit-filter linear;
+    -moz-transition: .2s -moz-filter linear;
+    cursor: pointer;
+}
+
+
+/** Mug Full Size */
+
+.full-size-card {
+    z-index: 32;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2.5rem;
+    width: 100%;
+    max-width: 66rem;
+    /* width: 70rem; */
+    /* height: 53rem; */
+    padding: 2rem 0;
+    background: linear-gradient(90deg, #48395595 0%, #3f31488c 90%);
+    border-radius: 2rem;
+}
+
+.full-size-card .img-wrap {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.full-size-card .img-wrap img {
+    opacity: .9;
+    border-radius: 1rem;
+    display: block;
+    width: 94%;
+}
+
+.full-size-card .img-wrap .btn-close {
+    position: absolute;
+    font-size: 1.7rem;
+    letter-spacing: 1px;
+    line-height: 3rem;
+    bottom: 2rem;
+    padding: .4rem 1rem;
+    border: 0;
+    border-radius: 1rem;
+    color: #e9e9e9ee;
+    background-color: #454049af;
+    background: linear-gradient(90deg, #645a6caf 0%, #4f4a52af 90%);
+    cursor: pointer;
+    transition: text-shadow 1s;
+}
+
+.full-size-card .img-wrap .btn-close:hover {
+    text-shadow: 0px 0px 3px #f8f8f8e7;
+    transition: text-shadow 1s;
+}
+
+.btn-active-full-size-container {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.btn-active-full-size {
+    height: 4rem;
+    z-index: 1;
+    font-size: 1.4rem;
+    margin-left: .5rem;
+    border: 0;
+    border-radius: 1rem;
+    color: #595264;
+    border-radius: 1rem;
+    background-color: #483e5293;
+    opacity: 0;
+    transition:  opacity .4s;
+    cursor: pointer;
+}
+
+.btn-active-full-size img {
+    height: 100%;
+}
+
+.card-details-box:nth-child(2):hover .btn-active-full-size {
+    opacity: .8;
+    transition:  opacity .4s;
+}

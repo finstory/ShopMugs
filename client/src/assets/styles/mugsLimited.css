@@ -1,0 +1,166 @@
+.mugs-limited-container {
+    /* zoom: 125%; */
+    position: absolute;
+    z-index: 50;
+    width: 101%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    /* background: #140e19a1; */
+}
+
+.mugs-limited {
+    /* width: 80rem;
+    height: 60rem; */
+    position: relative;
+    width: 100%;
+    height: 41rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border-radius: 3rem; */
+    background: #140e19c8;
+    background: #140e198d;
+}
+
+.mugs-limited .index-box {
+    position: absolute;
+    width: 60rem;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.mugs-limited .images-container {
+    display: flex;
+    position: relative;
+    direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: .95;
+    width: 100%;
+    height: 100%;
+}
+
+.mugs-limited .images-container img:nth-child(1) {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    filter: hue-rotate(90deg) blur(4px) brightness(110%);
+    margin-bottom: .9rem;
+    opacity: .5;
+    transition: 2s;
+}
+
+.mugs-limited .images-container img:nth-child(2) {
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    filter: brightness(95%);
+
+}
+
+.mugs-limited .buy-btn {
+    position: absolute;
+    width: 16rem;
+    height: 9rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    z-index: 5;
+    bottom: 12rem;
+    margin-left: 3rem;
+    opacity: .8;
+}
+
+
+
+
+.mugs-limited .buy-btn .btn-box:nth-child(1) {
+    text-align: center;
+    font-size: 2.1rem;
+    width: 100%;
+    height: 4rem;
+    border-radius: 1rem;
+    /* background-color: rgba(38, 38, 34, 0.907); */
+    filter: drop-shadow(0px 0px 5px #bea692b2);
+    background-color: #1e1925bf;
+    transition: background-color .4s;
+
+}
+
+.mugs-limited .buy-btn .btn-box:nth-child(1):hover {
+    background-color: #4a464df5;
+    text-shadow: 0px 0px 3px #d9d7db;
+    transition: background-color .4s;
+}
+
+.mugs-limited .buy-btn .btn-box:nth-child(1):hover img {
+    filter: drop-shadow(0px 0px 2px #ddbb9ffe);
+}
+
+.mugs-limited .buy-btn .btn-box:nth-child(1) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .7rem;
+}
+
+
+.mugs-limited .buy-btn .btn-box:nth-child(1) p {
+    font-size: 2.4rem;
+}
+
+
+.mugs-limited .buy-btn .img-wrap {
+    height: 2rem;
+}
+
+.mugs-limited .buy-btn img {
+    display: block;
+    height: 100%;
+}
+
+.mugs-limited .buy-btn .btn-box:nth-child(2) {
+    text-align: center;
+    width: 76%;
+    height: 2.4rem;
+    border-radius: 0 0 1rem 1rem;
+    opacity: .8;
+    /* background-color: rgb(195, 163, 47); */
+}
+
+
+.mugs-limited .buy-btn .btn-box:nth-child(2) p {
+    line-height: 0rem;
+    font-size: 1.3rem;
+}
+
+.mugs-limited .index-box:nth-child(3) {}
+
+.mugs-limited .index-box:nth-child(3) .text-box {
+    font-family: "Comic Sans Blod";
+    position: absolute;
+    color: #f0eff0;
+    top: 1.4rem;
+    font-size: 2rem;
+    right: 3rem;
+    opacity: .7;
+    width: 1.6rem;
+    padding: 1rem;
+    cursor: pointer;
+    background-color: #212022b1;
+    filter: drop-shadow(0px 0px 5px #ae9d9141);
+    transition:  .4s;
+}
+
+.mugs-limited .index-box:nth-child(3) .text-box:hover {
+
+    text-shadow: 0px 0px 5px #d9d7db;
+    filter: drop-shadow(0px 0px 5px #d5b19b7c);
+    transition: .4s;
+}

@@ -1,0 +1,133 @@
+.menu-box:nth-child(1) {
+    padding-left: 3.5rem;
+}
+
+.menu-box .img-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 1rem;
+    
+}
+
+.menu-box .img-box img {
+    position: absolute;
+}
+
+.menu-box:nth-child(3) .img-box img {
+    width: 2.8rem;
+}
+
+
+.menu-box .img-box img:nth-child(2) {
+    opacity: 0;
+    transition: opacity .3s;
+}
+
+.menu-box:nth-child() p {
+    text-shadow: 0;
+    transition: text-shadow .6s;
+}
+
+.menu-box:nth-child(2):hover img:nth-child(2) {
+    opacity: .96;
+    transition: opacity .3s;
+}
+
+.menu-box:nth-child(2):hover p {
+    text-shadow: 0px 0px 3px #f8f8f8;
+    transition: text-shadow .3s;
+}
+
+.menu-box:nth-child(3):hover img:nth-child(2) {
+    opacity: .96;
+    transition: opacity .3s;
+}
+
+.menu-box:nth-child(3):hover p {
+    text-shadow: 0px 0px 3px #f8f8f8;
+    transition: text-shadow .3s;
+}
+
+.menu-box:nth-child(4):hover img:nth-child(2) {
+    opacity: .96;
+    transition: opacity .3s;
+}
+
+.menu-box:nth-child(4):hover p {
+    text-shadow: 0px 0px 3px #f8f8f8;
+    transition: text-shadow .3s;
+}
+
+.menu-box:nth-child(5):hover img:nth-child(2) {
+    opacity: .96;
+    transition: opacity .3s;
+}
+
+.menu-box:nth-child(5):hover p {
+    text-shadow: 0px 0px 3px #f8f8f8;
+    transition: text-shadow .3s;
+}
+
+
+
+.anim-menu-box-img {
+    display: block;
+    filter: blur(0px);
+    animation-name: opacity-btn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-direction: reverse;
+    opacity: 0;
+}
+
+
+.anim-menu-box-img-reverse {
+    display: block;
+    filter: blur(0px);
+    animation-name: opacity-btn;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+}
+
+@keyframes opacity-btn {
+    0% {
+        opacity: 1;
+    }
+
+
+
+    100% {
+        opacity: 0;
+    }
+}
+
+/* * change type mugs */
+
+.type-limited {
+    background-color: #b66e3b;
+    animation: limited-effect 4s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite
+}
+
+@keyframes limited-effect {
+    0% {
+        background-color: #b66e3b;
+
+    }
+    3% {
+        background-color: #b66e3b;;
+      
+    }
+    30% {
+        background-color: #dba644;
+    }
+    40% {
+        background-color: #dba644;
+    }
+    90% {
+        background-color: #b66e3b;
+    }
+}
