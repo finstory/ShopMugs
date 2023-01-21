@@ -1,9 +1,18 @@
 # ShopMugs
-
+<br/>
+<br/>
+First you need install Node.js... 
+https://nodejs.org/en/download
+<br/>
 Open Api:
-1- npm install
-2- npm start
-
+<br/>
+1- "npm install"
+<br/>
+2- "npm start"
+<br/>
+<br/>
 Open Client:
-1- yarn install
-2- yarn dev
+<br/>
+1- "npm install --global yarn"
+<br/>
+2- "yarn dev"
