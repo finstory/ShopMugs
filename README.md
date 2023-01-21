@@ -4,14 +4,14 @@ First you need install Node.js...
 https://nodejs.org/en/download
 <br/>
 <br/>
-Open Api:
+Open Api (You must inside to path ./api) :
 <br/>
 1- "npm install"
 <br/>
 2- "npm start"
 <br/>
 <br/>
-Open Client:
+Open Client (You must inside to path ./client) :
 <br/>
 1- "npm install --global yarn"
 <br/>
